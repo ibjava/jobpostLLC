@@ -90,7 +90,7 @@ if(have_posts()) { the_post ();
 				<div class="info f-left f-left-all">
 					<div class="company job-info">
 						<?php
-							if (!empty($company_logo)){
+							if (0){ //!empty($company_logo)
 								?>
 								<div class="thumb_logo">
 									<a id="job_author_thumb" class="thumb job_author_link" href="<?php echo $company['post_url'] ?>" 

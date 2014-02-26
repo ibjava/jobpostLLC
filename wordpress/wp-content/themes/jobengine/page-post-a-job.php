@@ -54,7 +54,7 @@ get_header(); ?>
 			<h1 class="title"><span class="icon" data-icon="W"></span>
 				<?php 
 					if(!$job) {
-						_e('Post a Job', ET_DOMAIN);
+						_e('Post A Job (FREE)', ET_DOMAIN);
 					}
 					else {
 						_e('Renew this Job', ET_DOMAIN);
@@ -86,7 +86,7 @@ get_header(); ?>
 					<div class="toggle-title f-left-all  <?php if(!!$job) echo 'toggle-complete';?>">
 						<div class="icon-border"><?php echo array_shift($steps) ?></div>
 						<span class="icon" data-icon="2"></span>
-						<span><?php _e('Choose the pricing plan that fits your needs', ET_DOMAIN);?></span>
+						<span><?php _e('Post Your Job', ET_DOMAIN);?></span>
 					</div>
 					<div class="toggle-content clearfix">
 					<?php 
@@ -389,12 +389,12 @@ get_header(); ?>
 										</div>
 									</div>
 									<?php $uploaderID = 'user_logo';?>
-									<div class="form-item" id="<?php echo $uploaderID;?>_container">
-										<div class="label">
+									<div class="form-item" id="<?php echo $uploaderID;?>_container" style="display:none;">
+										<!-- <div class="label">
 											<h6><?php _e('COMPANY LOGO', ET_DOMAIN );?></h6>
 											<?php _e('Upload your company logo', ET_DOMAIN );?>
-										</div>
-										<div>
+										</div> -->
+										<!-- <div>
 											<span class="company-thumbs" id="<?php echo $uploaderID;?>_thumbnail">
 											<?php
 												if ( is_user_logged_in() ) {
@@ -407,16 +407,16 @@ get_header(); ?>
 												}
 											?>
 											</span>
-										</div>
-										<div class="input-file clearfix et_uploader">
-											<span class="btn-background border-radius button" id="<?php echo $uploaderID;?>_browse_button" tabindex="8" >
+										</div> -->
+										<!-- <div class="input-file clearfix et_uploader">
+											<!-- <span class="btn-background border-radius button" id="<?php echo $uploaderID;?>_browse_button" tabindex="8" >
 												<?php _e('Browse...', ET_DOMAIN );?>
 												<span class="icon" data-icon="o"></span>
-											</span>
-											<span class="et_ajaxnonce" id="<?php echo wp_create_nonce( $uploaderID . '_et_uploader' ); ?>"></span>
+											</span> 
+											 <span class="et_ajaxnonce" id="<?php echo wp_create_nonce( $uploaderID . '_et_uploader' ); ?>"></span>
 										    <div class="clearfix"></div>
-										    <div class="filelist"></div>
-										</div>
+										    <div class="filelist"></div> 
+										</div> -->
 									</div>
 								</div>
 

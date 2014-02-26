@@ -17,7 +17,7 @@ if(!isset($arrAuthors[$company['id']])){
 }
 ?>
 <li class="job-item">
-  <?php if( !is_home() ) {  ?>
+  <?php if( 0 ) { //!is_home() //never display logo ?>
 	<div class="thumb">
 	<?php
 		if (!empty($company_logo) ){
@@ -31,7 +31,7 @@ if(!isset($arrAuthors[$company['id']])){
 	?>
 	</div>
   <?php } ?>
-	<div class="content" <?php if( is_home() ) {  ?>style="margin-left:0px;"<?php } ?>>
+	<div class="content" <?php if( 1 ) { //is_home() ?>style="margin-left:0px;"<?php } ?>>
 		<a class="title-link title"  href="<?php the_permalink() ?>" title="<?php printf(__('View more details of %s', ET_DOMAIN), get_the_title())?>">
 			<?php the_title();  ?>
 		</a>
