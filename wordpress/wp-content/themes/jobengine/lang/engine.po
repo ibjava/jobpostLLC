@@ -1,0 +1,4875 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Job Engine v2.4.1\n"
+"Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
+"POT-Creation-Date: 2014-01-06 08:02:27+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Engine Themes <contact@enginethemes.com>\n"
+"Language-Team: Engine Themes <contact@enginethemes.com>\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1\n"
+
+#: 404.php:40 functions.php:1469 page-process-payment.php:73
+msgid "Page %s"
+msgstr ""
+
+#: 404.php:50
+msgid "Error #404"
+msgstr ""
+
+#: 404.php:53 mobile/404.php:5
+msgid "Page Not found :("
+msgstr ""
+
+#: 404.php:58 mobile/404.php:10
+msgid "Sorry, but the page you were trying to view does not exist.</p><p>It looks like this was the result of either:</p><p>- a mistyped address<br />\t- an out-of-date link"
+msgstr ""
+
+#: 404.php:61 mobile/404.php:13
+msgid "Other things to try:"
+msgstr ""
+
+#: 404.php:62 mobile/404.php:14 mobile/archive-resume.php:58
+#: mobile/index.php:56
+msgid "Search"
+msgstr ""
+
+#: 404.php:72 mobile/404.php:24 mobile/page-upgrade-account.php:16
+#: mobile/unsupported.php:16
+msgid "Return to Home"
+msgstr ""
+
+#: 404.php:95 includes/options/general.php:137
+msgid "Follow Us"
+msgstr ""
+
+#: admin/companies.php:13 admin/companies.php:35 functions.php:66
+#: functions.php:1411 includes/template.php:823 includes/widgets.php:540
+msgid "Companies"
+msgstr ""
+
+#: admin/companies.php:14 includes/template.php:822 page-companies.php:12
+msgid "COMPANIES"
+msgstr ""
+
+#: admin/companies.php:15 admin/overview.php:15 admin/settings.php:15
+msgid "Manage how your job board looks and feels."
+msgstr ""
+
+#: admin/companies.php:36
+msgid "are nice people who post jobs on your website"
+msgstr ""
+
+#: admin/companies.php:44
+msgid "Total Companies"
+msgstr ""
+
+#: admin/companies.php:53
+msgid "New companies last month"
+msgstr ""
+
+#: admin/companies.php:84
+msgid "Search companies..."
+msgstr ""
+
+#: admin/companies.php:90
+msgid "Pending Users"
+msgstr ""
+
+#: admin/companies.php:92
+msgid "List of companies waiting for approval to access resume detail page"
+msgstr ""
+
+#: admin/companies.php:97 archive-resume.php:75 includes/template.php:273
+#: index.php:141
+msgid "Approve"
+msgstr ""
+
+#: admin/companies.php:98 archive-resume.php:76 functions.php:950
+#: functions.php:1073 functions.php:1916 includes/template.php:274
+#: index.php:142 resumes/template.php:97
+msgid "Reject"
+msgstr ""
+
+#: admin/companies.php:111
+msgid "All Companies"
+msgstr ""
+
+#: admin/companies.php:122 admin/overview.php:257 includes/company.php:543
+msgid "No job"
+msgstr ""
+
+#: admin/companies.php:122 admin/overview.php:257 includes/company.php:543
+msgid "%d job"
+msgstr ""
+
+#: admin/companies.php:122 admin/overview.php:257 includes/company.php:543
+msgid "%d jobs"
+msgstr ""
+
+#: admin/companies.php:128
+msgid "More companies"
+msgstr ""
+
+#: admin/content-jobs.php:5 functions.php:239
+msgid "Job Types"
+msgstr ""
+
+#: admin/content-jobs.php:7
+msgid "Job types (e.g., full-time, part-time, contractual) are used by job seekers to filter job posts."
+msgstr ""
+
+#: admin/content-jobs.php:9 admin/setting-language.php:14
+#: admin/setting-payment-plans.php:5 admin/setting-payment.php:82
+#: admin/wizard-payment.php:11 resumes/admin/options-payment-plans.php:8
+msgid "Find out more"
+msgstr ""
+
+#: admin/content-jobs.php:22
+msgid "Job Categories"
+msgstr ""
+
+#: admin/content-jobs.php:24
+msgid "Job seekers can filter their job searches by Job Categories"
+msgstr ""
+
+#: admin/customization.php:13
+msgid "CUSTOMIZE"
+msgstr ""
+
+#: admin/customization.php:13
+msgid "Change the appearance of your website"
+msgstr ""
+
+#: admin/customization.php:31 admin/settings.php:154
+#: includes/options/general.php:331
+msgid "Branding"
+msgstr ""
+
+#: admin/customization.php:32
+msgid "Layout"
+msgstr ""
+
+#: admin/customization.php:33
+msgid "Style"
+msgstr ""
+
+#: admin/customization.php:37 admin/setting-branding.php:2
+#: admin/wizard-branding.php:13
+msgid "Upload Logo"
+msgstr ""
+
+#: admin/customization.php:39
+msgid "Your logo should be in PNG, GIF or JPG format, within 150x50px  and less than 200Kb "
+msgstr ""
+
+#: admin/customization.php:54 admin/customization.php:79
+#: admin/customization.php:104 admin/setting-branding.php:21
+#: admin/setting-branding.php:50 admin/setting-branding.php:78
+#: admin/wizard-branding.php:32 admin/wizard-branding.php:59
+#: includes/template.php:741
+msgid "Browse"
+msgstr ""
+
+#: admin/customization.php:61 admin/setting-branding.php:30
+#: admin/wizard-branding.php:40
+msgid "Upload Mobile Icon"
+msgstr ""
+
+#: admin/customization.php:63
+msgid "This icon will be used as launcher icons for iPhone and Android smartphones and also as the website favicon. The image dimensions should be <strong>57x57px</strong>."
+msgstr ""
+
+#: admin/customization.php:86 admin/setting-branding.php:58
+msgid "Upload Default Company Logo"
+msgstr ""
+
+#: admin/customization.php:88
+msgid "This logo will be used as the default logo for any company posting job on your website without uploading their own logos. The logo should be a square image."
+msgstr ""
+
+#: admin/customization.php:118
+msgid "Columns"
+msgstr ""
+
+#: admin/customization.php:121
+msgid "How many columns and where the sidebar should be."
+msgstr ""
+
+#: admin/customization.php:150
+msgid "JobEngine comes by default with a few styles you can choose from. You can also use one of these styles to create a unique personality for job board."
+msgstr ""
+
+#: admin/customization.php:225 includes/customizer.php:217
+msgid "Color Schemes"
+msgstr ""
+
+#: admin/customization.php:226
+msgid "Choose one of our color schemes."
+msgstr ""
+
+#: admin/customization.php:231 admin/customization.php:245
+msgid "Background Color"
+msgstr ""
+
+#: admin/customization.php:232 admin/customization.php:246
+msgid "Header Color"
+msgstr ""
+
+#: admin/customization.php:233 admin/customization.php:247
+msgid "Hyperlink Text Color"
+msgstr ""
+
+#: admin/customization.php:234 admin/customization.php:248
+msgid "Body Text Color"
+msgstr ""
+
+#: admin/customization.php:235 admin/customization.php:249
+msgid "Button Color"
+msgstr ""
+
+#: admin/customization.php:245 admin/customization.php:246
+#: admin/customization.php:247 admin/customization.php:248
+#: admin/customization.php:249
+msgid "Change"
+msgstr ""
+
+#: admin/customization.php:259
+msgid "Typography"
+msgstr ""
+
+#: admin/customization.php:261
+msgid "Change the fonts, sizes and colors for the text on your website"
+msgstr ""
+
+#: admin/customization.php:276 includes/customizer.php:299
+msgid "Heading"
+msgstr ""
+
+#: admin/customization.php:297
+msgid "Text"
+msgstr ""
+
+#: admin/customization.php:321 admin/setting-language.php:57
+#: includes/customizer.php:334
+msgid "Save"
+msgstr ""
+
+#: admin/customization.php:322
+msgid "Preview"
+msgstr ""
+
+#: admin/customization.php:327
+msgid "Custom style"
+msgstr ""
+
+#: admin/customization.php:328
+msgid "Place your custom style (css) into this box"
+msgstr ""
+
+#: admin/index.php:69 admin/setting-payment-plans.php:16
+#: admin/setting-payment-plans.php:27 admin/settings.php:318
+#: resumes/admin/options-payment-plans.php:19
+#: resumes/admin/options-payment-plans.php:30 resumes/admin/options.php:279
+msgid "Delete"
+msgstr ""
+
+#: admin/index.php:70 admin/setting-payment-plans.php:17
+#: admin/setting-payment-plans.php:26 admin/settings.php:317
+#: includes/template.php:271 index.php:140 page-dashboard.php:160
+#: page-dashboard.php:173 page-dashboard.php:324
+#: resumes/admin/options-payment-plans.php:20
+#: resumes/admin/options-payment-plans.php:29 resumes/admin/options.php:278
+#: single-resume.php:436 template-job.php:71
+msgid "Edit"
+msgstr ""
+
+#: admin/index.php:73
+msgid "Are you sure you want to delete this category?"
+msgstr ""
+
+#: admin/index.php:74
+msgid "Are you sure you want to delete this job type?"
+msgstr ""
+
+#: admin/index.php:75
+msgid "Are you sure you want to delete this payment plan?"
+msgstr ""
+
+#: admin/index.php:76
+msgid "Are you sure you want to reject this job?"
+msgstr ""
+
+#: admin/index.php:82
+msgid "Image Files"
+msgstr ""
+
+#: admin/index.php:84 admin/index.php:89 admin/index.php:90
+#: resumes/admin.php:199 resumes/admin.php:200
+msgid "Loading..."
+msgstr ""
+
+#: admin/index.php:85 functions.php:695
+msgid "Loading"
+msgstr ""
+
+#: admin/index.php:147
+msgid "Add sub category for this category"
+msgstr ""
+
+#: admin/index.php:230
+msgid "Logo (for company only)"
+msgstr ""
+
+#: admin/index.php:231
+msgid "Current logo:"
+msgstr ""
+
+#: admin/index.php:235
+msgid "Upload new logo"
+msgstr ""
+
+#: admin/index.php:289
+msgid "Job information"
+msgstr ""
+
+#: admin/index.php:343
+msgid "Payment plan"
+msgstr ""
+
+#: admin/index.php:351
+msgid "display as %s in %d day"
+msgstr ""
+
+#: admin/index.php:351 admin/index.php:352 admin/settings.php:483
+#: page-post-a-job.php:104 template-job.php:64
+msgid "featured"
+msgstr ""
+
+#: admin/index.php:351 admin/index.php:352 admin/settings.php:483
+#: page-post-a-job.php:104
+msgid "normal"
+msgstr ""
+
+#: admin/index.php:352
+msgid "display as %s in %d days"
+msgstr ""
+
+#: admin/index.php:363
+msgid "Display as featured job"
+msgstr ""
+
+#: admin/index.php:367
+msgid "Expired in (yyyy-mm-dd)"
+msgstr ""
+
+#: admin/index.php:372 feed-rss2.php:56 feed-rss2.php:65 feed-rss2.php:73
+#: feed-rss2.php:81 functions.php:784 functions.php:859
+#: page-jobseeker-signup.php:92 page-jobseeker-signup.php:94
+#: resumes/widgets.php:303 single-resume.php:455
+msgid "Location"
+msgstr ""
+
+#: admin/index.php:379
+msgid "How to apply"
+msgstr ""
+
+#: admin/index.php:380
+msgid "By email below"
+msgstr ""
+
+#: admin/index.php:385
+msgid "By description below"
+msgstr ""
+
+#: admin/index.php:391 footer.php:103 functions.php:1040
+#: resumes/resumes.php:227 resumes/resumes.php:278 resumes/resumes.php:390
+msgid "Company"
+msgstr ""
+
+#: admin/overview.php:13 admin/overview.php:61 functions.php:1408
+msgid "Overview"
+msgstr ""
+
+#: admin/overview.php:14
+msgid "OVERVIEW"
+msgstr ""
+
+#: admin/overview.php:50 includes/job.php:1627 includes/job.php:1877
+msgid "You don't have permission to perform this action"
+msgstr ""
+
+#: admin/overview.php:63
+msgid "what happened in"
+msgstr ""
+
+#: admin/overview.php:65 admin/overview.php:66
+msgid "latest 30 days"
+msgstr ""
+
+#: admin/overview.php:67
+msgid "latest 15 days"
+msgstr ""
+
+#: admin/overview.php:68
+msgid "latest 7 days"
+msgstr ""
+
+#: admin/overview.php:69
+msgid "last days"
+msgstr ""
+
+#: admin/overview.php:70
+msgid "all time"
+msgstr ""
+
+#: admin/overview.php:87 admin/overview.php:146
+msgid "Pending Jobs"
+msgstr ""
+
+#: admin/overview.php:96
+msgid "Posted Jobs"
+msgstr ""
+
+#: admin/overview.php:106 admin/payments.php:71
+msgid "Revenue Made"
+msgstr ""
+
+#: admin/overview.php:115
+msgid "Applications"
+msgstr ""
+
+#: admin/overview.php:123
+msgid "Click icon to archive jobs"
+msgstr ""
+
+#: admin/overview.php:128
+msgid "Expired jobs"
+msgstr ""
+
+#: admin/overview.php:181 admin/overview.php:225 admin/payments.php:150
+#: admin/payments.php:269
+msgid "at"
+msgstr ""
+
+#: admin/overview.php:187
+msgid "There is no pending job."
+msgstr ""
+
+#: admin/overview.php:202 admin/payments.php:104
+msgid "Latest Payments"
+msgstr ""
+
+#: admin/overview.php:229 admin/payments.php:161
+msgid "This job has been deleted by %s"
+msgstr ""
+
+#: admin/overview.php:235
+msgid "View all Payments"
+msgstr ""
+
+#: admin/overview.php:237
+msgid "There are no payments at this period."
+msgstr ""
+
+#: admin/overview.php:246
+msgid "Latest Companies"
+msgstr ""
+
+#: admin/overview.php:262
+msgid "View all Companies"
+msgstr ""
+
+#: admin/overview.php:264
+msgid "There are no registered companies."
+msgstr ""
+
+#: admin/payments.php:10 admin/payments.php:42 functions.php:1410
+msgid "Payments"
+msgstr ""
+
+#: admin/payments.php:11
+msgid "PAYMENTS"
+msgstr ""
+
+#: admin/payments.php:12 admin/payments.php:44
+msgid "Probably the best thing in the world."
+msgstr ""
+
+#: admin/payments.php:53 admin/payments.php:132 admin/payments.php:254
+#: functions.php:711 includes/template.php:621
+msgid "Pending"
+msgstr ""
+
+#: admin/payments.php:62
+msgid "Unpaid"
+msgstr ""
+
+#: admin/payments.php:91
+msgid "Search jobs..."
+msgstr ""
+
+#: admin/payments.php:95
+msgid "Payment Gateway"
+msgstr ""
+
+#: admin/payments.php:97 page-companies.php:19
+msgid "All"
+msgstr ""
+
+#: admin/payments.php:134 admin/payments.php:256
+msgid "Confirmed"
+msgstr ""
+
+#: admin/payments.php:137 admin/payments.php:258
+msgid "Failed"
+msgstr ""
+
+#: admin/payments.php:152
+msgid "%s by"
+msgstr ""
+
+#: admin/payments.php:168 admin/payments.php:214 admin/payments.php:286
+msgid "There are no payments yet."
+msgstr ""
+
+#: admin/payments.php:171
+msgid "Load more"
+msgstr ""
+
+#: admin/setting-branding.php:4
+msgid "Your logo should be in PNG, GIF or JPG format, within <strong>150x50px</strong>  and less than <strong>1500Kb</strong>."
+msgstr ""
+
+#: admin/setting-branding.php:32 admin/wizard-branding.php:43
+msgid "This icon will be used as a launcher icon for iPhone and Android smartphones and also as the website favicon. The image dimensions should be <strong>57x57px</strong>."
+msgstr ""
+
+#: admin/setting-branding.php:60
+msgid "This will be used as default logo for companies posting jobs on your site but have not uploaded their own logos. The logo must be a square image."
+msgstr ""
+
+#: admin/setting-general.php:21
+msgid "Website Title"
+msgstr ""
+
+#: admin/setting-general.php:23 admin/wizard-branding.php:69
+msgid "Enter your website title "
+msgstr ""
+
+#: admin/setting-general.php:31
+msgid "Website Description"
+msgstr ""
+
+#: admin/setting-general.php:33 admin/wizard-branding.php:79
+msgid "This description will appear next to your website logo in the header."
+msgstr ""
+
+#: admin/setting-general.php:41
+msgid "Website Demonstration"
+msgstr ""
+
+#: admin/setting-general.php:43
+msgid "Enter your website's demonstration"
+msgstr ""
+
+#: admin/setting-general.php:52
+msgid "Copyright Information"
+msgstr ""
+
+#: admin/setting-general.php:54
+msgid "This copyright information will appear in the footer."
+msgstr ""
+
+#: admin/setting-general.php:62
+msgid "Social Links"
+msgstr ""
+
+#: admin/setting-general.php:64
+msgid "Social links are displayed in the footer and in your blog sidebar."
+msgstr ""
+
+#: admin/setting-general.php:67
+msgid "Twitter URL"
+msgstr ""
+
+#: admin/setting-general.php:72 includes/options/class-ops-general.php:30
+msgid "Facebook URL"
+msgstr ""
+
+#: admin/setting-general.php:77 includes/options/class-ops-general.php:32
+msgid "Google Plus URL"
+msgstr ""
+
+#: admin/setting-general.php:84
+msgid "Google Analytics Script"
+msgstr ""
+
+#: admin/setting-general.php:86
+msgid "Google analytics is a service offered by Google that generates detailed statistics about the visits to a website."
+msgstr ""
+
+#: admin/setting-job.php:3
+msgid "Pending jobs"
+msgstr ""
+
+#: admin/setting-job.php:5
+msgid "Enabling this will make every new job post pending until you review and approve it manually."
+msgstr ""
+
+#: admin/setting-job.php:12
+msgid "Pending job"
+msgstr ""
+
+#: admin/setting-language.php:11
+msgid "Website Language"
+msgstr ""
+
+#: admin/setting-language.php:13
+msgid "Select the language you want to use for your website."
+msgstr ""
+
+#: admin/setting-language.php:22
+msgid "Add a new language"
+msgstr ""
+
+#: admin/setting-language.php:24
+msgid "Enter language name"
+msgstr ""
+
+#: admin/setting-language.php:32
+msgid "Language name"
+msgstr ""
+
+#: admin/setting-language.php:33
+msgid "Enter the language's name"
+msgstr ""
+
+#: admin/setting-language.php:34
+msgid "Add language"
+msgstr ""
+
+#: admin/setting-language.php:35 functions.php:697 functions.php:1914
+#: resumes/admin/options-payment-plans.php:110 resumes/template.php:95
+#: single-resume.php:117 single-resume.php:171 single-resume.php:218
+#: single-resume.php:273 single-resume.php:340 single-resume.php:390
+#: single-resume.php:463 single-resume.php:533 single-resume.php:593
+#: template-apply.php:111 template-apply.php:176 template-apply.php:241
+#: template-apply.php:287
+msgid "Cancel"
+msgstr ""
+
+#: admin/setting-language.php:42
+msgid "Translator"
+msgstr ""
+
+#: admin/setting-language.php:46
+msgid "Translate a language"
+msgstr ""
+
+#: admin/setting-language.php:50
+msgid "Choose a Language"
+msgstr ""
+
+#: admin/setting-mail-template.php:20
+msgid "Authentication Mail Template"
+msgstr ""
+
+#: admin/setting-mail-template.php:24 resumes/admin/options-mails.php:4
+msgid "Email templates for authentication process. You can use placeholders to include some specific content."
+msgstr ""
+
+#: admin/setting-mail-template.php:28
+msgid "View more details"
+msgstr ""
+
+#: admin/setting-mail-template.php:30 resumes/admin/options-mails.php:8
+msgid "user's details you want to send mail"
+msgstr ""
+
+#: admin/setting-mail-template.php:31
+msgid "company name, user dashboard url "
+msgstr ""
+
+#: admin/setting-mail-template.php:32
+msgid "job infomation and detail"
+msgstr ""
+
+#: admin/setting-mail-template.php:33
+msgid "activate link is require for user to renew their pass"
+msgstr ""
+
+#: admin/setting-mail-template.php:34
+msgid " reject job reason "
+msgstr ""
+
+#: admin/setting-mail-template.php:35
+msgid " seeker infomation "
+msgstr ""
+
+#: admin/setting-mail-template.php:36
+msgid "reminder info "
+msgstr ""
+
+#: admin/setting-mail-template.php:37
+msgid " cash message when user pay success "
+msgstr ""
+
+#: admin/setting-mail-template.php:38
+msgid " site info, admin email"
+msgstr ""
+
+#: admin/setting-mail-template.php:43
+msgid "Company Register Mail Template"
+msgstr ""
+
+#: admin/setting-mail-template.php:54 admin/setting-mail-template.php:76
+#: admin/setting-mail-template.php:96 admin/setting-mail-template.php:140
+#: admin/setting-mail-template.php:168 admin/setting-mail-template.php:196
+#: admin/setting-mail-template.php:224 admin/setting-mail-template.php:254
+#: admin/setting-mail-template.php:282 resumes/admin/options-mails.php:38
+#: resumes/admin/options-mails.php:67 resumes/admin/options-mails.php:94
+#: resumes/admin/options-mails.php:122 resumes/admin/options-mails.php:154
+msgid "Toggle Editor"
+msgstr ""
+
+#: admin/setting-mail-template.php:54 admin/setting-mail-template.php:76
+#: admin/setting-mail-template.php:96 admin/setting-mail-template.php:140
+#: admin/setting-mail-template.php:168 admin/setting-mail-template.php:196
+#: admin/setting-mail-template.php:224 admin/setting-mail-template.php:254
+#: admin/setting-mail-template.php:282 resumes/admin/options-mails.php:39
+#: resumes/admin/options-mails.php:68 resumes/admin/options-mails.php:95
+#: resumes/admin/options-mails.php:123 resumes/admin/options-mails.php:155
+msgid "Reset to default"
+msgstr ""
+
+#: admin/setting-mail-template.php:64
+msgid "Forgot Password Mail Template"
+msgstr ""
+
+#: admin/setting-mail-template.php:85
+msgid "Reset Password Mail Template"
+msgstr ""
+
+#: admin/setting-mail-template.php:107
+msgid "Job-related Email Templates"
+msgstr ""
+
+#: admin/setting-mail-template.php:110
+msgid "Email templates used for job-related event. You can use placeholders to include some specific content."
+msgstr ""
+
+#: admin/setting-mail-template.php:120
+msgid "Sent to employers when a candidate apply for their jobs."
+msgstr ""
+
+#: admin/setting-mail-template.php:123 admin/settings.php:556
+#: admin/settings.php:565 resumes/admin/options-content.php:80
+#: resumes/admin/options-general.php:9 resumes/admin/options-general.php:49
+#: resumes/admin/options-mails.php:53 resumes/admin/options-mails.php:80
+#: resumes/admin/options-mails.php:108 resumes/admin/options-mails.php:136
+#: resumes/admin/options-payment.php:10 resumes/init.php:170
+msgid "Disable"
+msgstr ""
+
+#: admin/setting-mail-template.php:126 admin/settings.php:559
+#: admin/settings.php:568 resumes/admin/options-content.php:83
+#: resumes/admin/options-general.php:12 resumes/admin/options-general.php:52
+#: resumes/admin/options-mails.php:56 resumes/admin/options-mails.php:83
+#: resumes/admin/options-mails.php:111 resumes/admin/options-mails.php:139
+#: resumes/admin/options-payment.php:13 resumes/init.php:173
+msgid "Enable"
+msgstr ""
+
+#: admin/setting-mail-template.php:139
+msgid "job seeker note send to company when they submit an application"
+msgstr ""
+
+#: admin/setting-mail-template.php:149
+msgid "Sent to job seekers when they want to save a job for viewing later."
+msgstr ""
+
+#: admin/setting-mail-template.php:177
+msgid "Sent to employers to notify that one of their posted jobs has been published."
+msgstr ""
+
+#: admin/setting-mail-template.php:205
+msgid "Sent to employers to notify that one of their jobs has been archived due to expiration or manual administrative action."
+msgstr ""
+
+#: admin/setting-mail-template.php:233
+msgid "Sent to employers to notify that one of their posted jobs has been rejected."
+msgstr ""
+
+#: admin/setting-mail-template.php:253 admin/setting-mail-template.php:281
+msgid "reason when you reject a job "
+msgstr ""
+
+#: admin/setting-mail-template.php:262
+msgid "Sent to employers when they post a job and choose to pay by cash."
+msgstr ""
+
+#: admin/setting-payment-plans.php:1 resumes/admin/options-payment-plans.php:4
+msgid "Payment Plans"
+msgstr ""
+
+#: admin/setting-payment-plans.php:3
+msgid "Set payment plans your employers can choose from when posting new jobs."
+msgstr ""
+
+#: admin/setting-payment-plans.php:24 admin/settings.php:276
+msgid "%s for %s days"
+msgstr ""
+
+#: admin/setting-payment-plans.php:35
+#: resumes/admin/options-payment-plans.php:38
+msgid "There is no added plan yet"
+msgstr ""
+
+#: admin/setting-payment-plans.php:49 admin/setting-payment-plans.php:90
+#: resumes/admin/options-payment-plans.php:52
+#: resumes/admin/options-payment-plans.php:87
+msgid "Enter a name for your plan"
+msgstr ""
+
+#: admin/setting-payment-plans.php:54 admin/setting-payment-plans.php:95
+#: functions.php:838 resumes/admin/options-payment-plans.php:57
+#: resumes/admin/options-payment-plans.php:92
+msgid "Price"
+msgstr ""
+
+#: admin/setting-payment-plans.php:59 admin/setting-payment-plans.php:100
+msgid "Availability"
+msgstr ""
+
+#: admin/setting-payment-plans.php:61
+#: resumes/admin/options-payment-plans.php:64
+#: resumes/admin/options-payment-plans.php:99
+msgid "days"
+msgstr ""
+
+#: admin/setting-payment-plans.php:64
+msgid "Number of jobs"
+msgstr ""
+
+#: admin/setting-payment-plans.php:66
+msgid "posts"
+msgstr ""
+
+#: admin/setting-payment-plans.php:70 admin/setting-payment-plans.php:111
+#: includes/options/class-ops-general.php:386
+msgid "Featured Job"
+msgstr ""
+
+#: admin/setting-payment-plans.php:72 admin/setting-payment-plans.php:112
+msgid "Jobs posted under this plan will be featured."
+msgstr ""
+
+#: admin/setting-payment-plans.php:76 admin/setting-payment-plans.php:116
+#: resumes/admin/options-payment-plans.php:73
+#: resumes/admin/options-payment-plans.php:108
+msgid "Save Plan"
+msgstr ""
+
+#: admin/setting-payment-plans.php:105 admin/settings.php:159
+#: includes/template.php:817 mobile/companies.php:98 mobile/index.php:84
+msgid "Jobs"
+msgstr ""
+
+#: admin/setting-payment-plans.php:107
+msgid "jobs"
+msgstr ""
+
+#: admin/setting-payment.php:7 admin/wizard-payment.php:7
+msgid "Currency"
+msgstr ""
+
+#: admin/setting-payment.php:9
+msgid "Select the currency you will use in your financial transactions."
+msgstr ""
+
+#: admin/setting-payment.php:27
+msgid "Add a new currency"
+msgstr ""
+
+#: admin/setting-payment.php:33
+msgid "Enter the name of your currency"
+msgstr ""
+
+#: admin/setting-payment.php:38
+msgid "Currency Code"
+msgstr ""
+
+#: admin/setting-payment.php:42
+msgid "Currency Sign"
+msgstr ""
+
+#: admin/setting-payment.php:47
+msgid "Currency Sign Position"
+msgstr ""
+
+#: admin/setting-payment.php:50
+msgid "After"
+msgstr ""
+
+#: admin/setting-payment.php:53
+msgid "Before"
+msgstr ""
+
+#: admin/setting-payment.php:60
+msgid "Save Currency"
+msgstr ""
+
+#: admin/setting-payment.php:65
+msgid "2Checkout supported currencies"
+msgstr ""
+
+#: admin/setting-payment.php:68
+msgid "Paypal supported currencies"
+msgstr ""
+
+#: admin/setting-payment.php:78 admin/setting-payment.php:87
+msgid "Payment Test Mode"
+msgstr ""
+
+#: admin/setting-payment.php:80
+msgid "Enabling this will allow you to test payment without charging your account."
+msgstr ""
+
+#: admin/setting-payment.php:93 admin/wizard-payment.php:30
+msgid "Payment Gateways"
+msgstr ""
+
+#: admin/setting-payment.php:105
+msgid "Payment options your users can choose from when making payments to publish jobs on your website."
+msgstr ""
+
+#: admin/setting-payment.php:117 admin/wizard-payment.php:53
+msgid "Paypal"
+msgstr ""
+
+#: admin/setting-payment.php:122 admin/wizard-payment.php:58
+msgid "Enter your PayPal email address "
+msgstr ""
+
+#: admin/setting-payment.php:138 admin/wizard-payment.php:74
+msgid "2CheckOut"
+msgstr ""
+
+#: admin/setting-payment.php:143 admin/wizard-payment.php:79
+msgid "Your 2Checkout Seller ID "
+msgstr ""
+
+#: admin/setting-payment.php:151 admin/wizard-payment.php:87
+msgid "Your 2Checkout Secret Key "
+msgstr ""
+
+#: admin/setting-payment.php:160
+msgid "Use Direct Checkout"
+msgstr ""
+
+#: admin/setting-payment.php:173
+msgid "Google Checkout"
+msgstr ""
+
+#: admin/setting-payment.php:178
+msgid "Your Google Checkout Merchant ID "
+msgstr ""
+
+#: admin/setting-payment.php:186
+msgid "Your Google Checkout Merchant Key "
+msgstr ""
+
+#: admin/setting-payment.php:203 admin/wizard-payment.php:103
+#: includes/payment/et-payment.php:47
+msgid "Cash"
+msgstr ""
+
+#: admin/setting-payment.php:208 admin/wizard-payment.php:108
+msgid "Cash Message"
+msgstr ""
+
+#: admin/setting-update.php:5
+msgid "Enter your license key on Enginethemes.com"
+msgstr ""
+
+#: admin/setting-update.php:8
+msgid "Enter license key"
+msgstr ""
+
+#: admin/settings.php:13 admin/settings.php:130 functions.php:1409
+msgid "Settings"
+msgstr ""
+
+#: admin/settings.php:14
+msgid "SETTINGS"
+msgstr ""
+
+#: admin/settings.php:30 admin/wizard.php:68
+msgid "Input is invalid. Please check again."
+msgstr ""
+
+#: admin/settings.php:31 admin/wizard.php:69 resumes/admin/options.php:46
+msgid "You cannot delete a parent job category. Delete its sub-categories first."
+msgstr ""
+
+#: admin/settings.php:149 resumes/admin/options.php:144
+msgid "General"
+msgstr ""
+
+#: admin/settings.php:164 includes/options/general.php:333
+#: resumes/admin/options.php:154
+msgid "Payment"
+msgstr ""
+
+#: admin/settings.php:169 resumes/admin/options.php:159
+msgid "Mailing"
+msgstr ""
+
+#: admin/settings.php:174
+msgid "Language"
+msgstr ""
+
+#: admin/settings.php:180
+msgid "Update"
+msgstr ""
+
+#: admin/settings.php:325 resumes/admin/options.php:286
+msgid "Payment Added!"
+msgstr ""
+
+#: admin/settings.php:339 resumes/admin/options.php:299
+msgid "Can't delete payment plan"
+msgstr ""
+
+#: admin/settings.php:344 resumes/admin/options.php:304
+msgid "Payment plan has been deleted"
+msgstr ""
+
+#: admin/settings.php:364 resumes/admin/options.php:328
+msgid "Payment Saved!"
+msgstr ""
+
+#: admin/settings.php:373 resumes/admin/options.php:337
+msgid "An error has been occurred"
+msgstr ""
+
+#: admin/settings.php:405 resumes/admin/options.php:406
+msgid "An error has occurred, please try again!"
+msgstr ""
+
+#: admin/settings.php:409 includes/widgets.php:316
+#: resumes/admin/options.php:410
+msgid "You have no permission to perform this action"
+msgstr ""
+
+#: admin/settings.php:421 admin/settings.php:480 resumes/admin/options.php:179
+#: resumes/admin/options.php:221
+msgid "Payment name cannot be empty"
+msgstr ""
+
+#: admin/settings.php:426 admin/settings.php:485
+msgid "Your job will be displayed as %s, on top of other jobs for %d days."
+msgstr ""
+
+#: admin/settings.php:427 admin/settings.php:486
+msgid "Your job will be displayed as %s, on top of other jobs for %d day."
+msgstr ""
+
+#: admin/settings.php:488 page-post-a-job.php:110
+msgid "Your job will be displayed as %s for %d days."
+msgstr ""
+
+#: admin/settings.php:489 page-post-a-job.php:111
+msgid "Your job will be displayed as %s for %d day."
+msgstr ""
+
+#: admin/settings.php:611 admin/settings.php:659
+msgid "Please fill in required text."
+msgstr ""
+
+#: admin/wizard-branding.php:15
+msgid "Your logo should be in PNG, GIF or JPG format, within <strong>150x50px</strong> and less than <strong>200Kb</strong>"
+msgstr ""
+
+#: admin/wizard-branding.php:67
+msgid "Website title"
+msgstr ""
+
+#: admin/wizard-branding.php:77
+msgid "Website description"
+msgstr ""
+
+#: admin/wizard-payment.php:9
+msgid "Select the currency you want to use in your job board"
+msgstr ""
+
+#: admin/wizard-payment.php:41
+msgid "How your users pay you for publishing jobs on your website"
+msgstr ""
+
+#: admin/wizard-sample-data.php:2 admin/wizard-sample-data.php:9
+msgid "Install sample data"
+msgstr ""
+
+#: admin/wizard-sample-data.php:4
+msgid "Insert our sample data to see how your website works. We highly recommend using this function only when you have not posted your own data yet."
+msgstr ""
+
+#: admin/wizard-sample-data.php:12 admin/wizard.php:60
+msgid "Delete sample data"
+msgstr ""
+
+#: admin/wizard.php:13
+msgid "Setup wizard"
+msgstr ""
+
+#: admin/wizard.php:14
+msgid "SETUP WIZARD"
+msgstr ""
+
+#: admin/wizard.php:15
+msgid "Step-by-step guide to configure your website"
+msgstr ""
+
+#: admin/wizard.php:59
+msgid "Insert sample data"
+msgstr ""
+
+#: admin/wizard.php:110
+msgid "Step %s:"
+msgstr ""
+
+#: admin/wizard.php:139 includes/options/general.php:318
+msgid "Finish Wizard"
+msgstr ""
+
+#: admin/wizard.php:144 includes/options/general.php:323
+msgid "Go to the next step"
+msgstr ""
+
+#: archive-resume.php:8 page-process-payment.php:266
+#: resumes/admin/options.php:7 resumes/front.php:221 resumes/front.php:226
+#: resumes/front.php:233 resumes/front.php:239 resumes/front.php:244
+#: resumes/init.php:114 resumes/init.php:121 resumes/template.php:11
+#: resumes/widgets.php:215
+msgid "Resumes"
+msgstr ""
+
+#: archive-resume.php:32
+msgid "PENDING RESUMES"
+msgstr ""
+
+#: archive-resume.php:59 archive-resume.php:132 includes/payment.php:72
+#: resumes/admin.php:97 resumes/template.php:149
+msgid "No location"
+msgstr ""
+
+#: archive-resume.php:66 archive-resume.php:139 resumes/front.php:37
+#: resumes/template.php:155
+msgid "No link specified"
+msgstr ""
+
+#: archive-resume.php:96
+msgid "LATEST RESUMES"
+msgstr ""
+
+#: archive-resume.php:159 resumes/front.php:39
+msgid "Oops! Sorry, no resumes found."
+msgstr ""
+
+#: archive-resume.php:167
+msgid "Load more resumes"
+msgstr ""
+
+#: author.php:12
+msgid "Jobs at %s"
+msgstr ""
+
+#: author.php:20
+msgid "%d active job by %s"
+msgstr ""
+
+#: author.php:20
+msgid "%d active jobs by %s"
+msgstr ""
+
+#: author.php:48 index.php:200 mobile/companies.php:130 mobile/index.php:117
+msgid "Load More Jobs"
+msgstr ""
+
+#: category.php:9 date.php:9 mobile/category.php:8 mobile/date.php:6
+#: single.php:17
+msgid "OUR BLOG"
+msgstr ""
+
+#: category.php:58 date.php:54 includes/index.php:328
+msgid "View post %s"
+msgstr ""
+
+#: category.php:59 date.php:55 includes/index.php:329
+msgid "READ MORE"
+msgstr ""
+
+#: category.php:68 date.php:70 mobile/category.php:55 mobile/date.php:61
+msgid "Load More Articles"
+msgstr ""
+
+#: comments.php:15
+msgid "Comment"
+msgstr ""
+
+#: comments.php:25
+msgid "Add a comment"
+msgstr ""
+
+#: comments.php:26
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:27
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:28
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:34
+msgid "Comment closed!"
+msgstr ""
+
+#: comments.php:59 comments.php:96
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:66 comments.php:102
+msgid "Reply <span class=\"icon\" data-icon=\"R\"></span>"
+msgstr ""
+
+#: feed-rss2.php:52 feed-rss2.php:61 feed-rss2.php:69 feed-rss2.php:77
+msgid "Employer"
+msgstr ""
+
+#: feed-rss2.php:54 feed-rss2.php:63 feed-rss2.php:71 feed-rss2.php:79
+msgid "Job Type"
+msgstr ""
+
+#: footer.php:39 footer.php:68 page-post-a-job.php:247
+#: page-upgrade-account.php:153
+msgid "LOGIN"
+msgstr ""
+
+#: footer.php:40 footer.php:138 functions.php:1843
+msgid "REGISTER"
+msgstr ""
+
+#: footer.php:49 template-apply.php:55
+msgid "Username or email address"
+msgstr ""
+
+#: footer.php:58 footer.php:111 functions.php:1826 mobile/page-login.php:16
+#: mobile/page-register.php:24 page-jobseeker-account.php:48
+#: page-jobseeker-signup.php:112 template-apply.php:63
+msgid "Password"
+msgstr ""
+
+#: footer.php:71 page-post-a-job.php:249
+msgid "FORGOT PASSWORD"
+msgstr ""
+
+#: footer.php:80 functions.php:1810 mobile/page-login.php:12
+#: mobile/page-register.php:14
+msgid "Username"
+msgstr ""
+
+#: footer.php:89 functions.php:1818
+msgid "Email"
+msgstr ""
+
+#: footer.php:99
+msgid "You want to register as a"
+msgstr ""
+
+#: footer.php:105
+msgid "Jobseeker"
+msgstr ""
+
+#: footer.php:120 functions.php:1834 mobile/page-register.php:29
+msgid "Retype Password"
+msgstr ""
+
+#: footer.php:131
+msgid "I agree with <a href='%s' > Terms of use </a>"
+msgstr ""
+
+#: footer.php:179
+msgid "<span class=\"et-sem\"><a target=\"_blank\" href=\"%s\" ><strong>Job Board Software</strong></a> | powered by <a target=\"_blank\" href=\"%s\" >WordPress</a></span>"
+msgstr ""
+
+#: functions.php:64 header.php:128 page-post-a-job.php:57
+msgid "Post a Job"
+msgstr ""
+
+#: functions.php:65
+msgid "Dashboard"
+msgstr ""
+
+#: functions.php:67
+msgid "Profile"
+msgstr ""
+
+#: functions.php:68
+msgid "Change Password"
+msgstr ""
+
+#: functions.php:69
+msgid "Process Payment"
+msgstr ""
+
+#: functions.php:70
+msgid "Reset Password"
+msgstr ""
+
+#: functions.php:104
+msgctxt "post type general name"
+msgid "Jobs"
+msgstr ""
+
+#: functions.php:105
+msgctxt "post type singular name"
+msgid "Job"
+msgstr ""
+
+#: functions.php:106
+msgctxt "job"
+msgid "Add New"
+msgstr ""
+
+#: functions.php:107
+msgid "Add New Job"
+msgstr ""
+
+#: functions.php:108
+msgid "Edit Job"
+msgstr ""
+
+#: functions.php:109
+msgid "New Job"
+msgstr ""
+
+#: functions.php:110
+msgid "All Jobs"
+msgstr ""
+
+#: functions.php:111
+msgid "View Job"
+msgstr ""
+
+#: functions.php:112
+msgid "Search Jobs"
+msgstr ""
+
+#: functions.php:113
+msgid "No jobs found"
+msgstr ""
+
+#: functions.php:114
+msgid "No jobs found in Trash"
+msgstr ""
+
+#: functions.php:143
+msgctxt "post type general name"
+msgid "Plans"
+msgstr ""
+
+#: functions.php:144
+msgctxt "post type singular name"
+msgid "Plan"
+msgstr ""
+
+#: functions.php:145
+msgctxt "payment_plan"
+msgid "Add New"
+msgstr ""
+
+#: functions.php:146
+msgid "Add New Plan"
+msgstr ""
+
+#: functions.php:147
+msgid "Edit Plan"
+msgstr ""
+
+#: functions.php:148
+msgid "New Plan"
+msgstr ""
+
+#: functions.php:149
+msgid "All Plans"
+msgstr ""
+
+#: functions.php:150
+msgid "View Plan"
+msgstr ""
+
+#: functions.php:151
+msgid "Search Plans"
+msgstr ""
+
+#: functions.php:152
+msgid "No Plans found"
+msgstr ""
+
+#: functions.php:153
+msgid "No Plans found in Trash"
+msgstr ""
+
+#: functions.php:171
+msgctxt "post type general name"
+msgid "Application"
+msgstr ""
+
+#: functions.php:172
+msgctxt "post type singular name"
+msgid "Application"
+msgstr ""
+
+#: functions.php:173
+msgctxt "application"
+msgid "Add New"
+msgstr ""
+
+#: functions.php:174
+msgid "Add New Application"
+msgstr ""
+
+#: functions.php:175
+msgid "Edit Application"
+msgstr ""
+
+#: functions.php:176
+msgid "New Application"
+msgstr ""
+
+#: functions.php:177
+msgid "All Applications"
+msgstr ""
+
+#: functions.php:178
+msgid "View Application"
+msgstr ""
+
+#: functions.php:179
+msgid "Search Applications"
+msgstr ""
+
+#: functions.php:180
+msgid "No applications found"
+msgstr ""
+
+#: functions.php:181
+msgid "No applications found in Trash"
+msgstr ""
+
+#: functions.php:206 resumes/resumes.php:563
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: functions.php:207 resumes/resumes.php:564
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: functions.php:208 resumes/resumes.php:565
+msgid "Search Categories"
+msgstr ""
+
+#: functions.php:209 resumes/resumes.php:566
+msgid "All Categories"
+msgstr ""
+
+#: functions.php:210 resumes/resumes.php:567
+msgid "Parent Category"
+msgstr ""
+
+#: functions.php:211 resumes/resumes.php:568
+msgid "Parent Category:"
+msgstr ""
+
+#: functions.php:212 resumes/resumes.php:569
+msgid "Edit Category"
+msgstr ""
+
+#: functions.php:213 resumes/resumes.php:570
+msgid "Update Category"
+msgstr ""
+
+#: functions.php:214 resumes/resumes.php:571
+msgid "Add New Category"
+msgstr ""
+
+#: functions.php:215 resumes/resumes.php:572
+msgid "New Category Name"
+msgstr ""
+
+#: functions.php:216 mobile/archive-resume.php:24 mobile/index.php:27
+msgid "Categories"
+msgstr ""
+
+#: functions.php:229
+msgctxt "taxonomy general name"
+msgid "Job Types"
+msgstr ""
+
+#: functions.php:230
+msgctxt "taxonomy singular name"
+msgid "Job Type"
+msgstr ""
+
+#: functions.php:231
+msgid "Search Job Types"
+msgstr ""
+
+#: functions.php:232
+msgid "All Job Types"
+msgstr ""
+
+#: functions.php:233
+msgid "Parent Job Type"
+msgstr ""
+
+#: functions.php:234
+msgid "Parent Job Type:"
+msgstr ""
+
+#: functions.php:235
+msgid "Edit Job Type"
+msgstr ""
+
+#: functions.php:236
+msgid "Update Job Type"
+msgstr ""
+
+#: functions.php:237
+msgid "Add New Job Type"
+msgstr ""
+
+#: functions.php:238
+msgid "New Job Type Name"
+msgstr ""
+
+#: functions.php:310
+msgid "Menu display on the header"
+msgstr ""
+
+#: functions.php:311
+msgid "Menu display on the footer"
+msgstr ""
+
+#: functions.php:312
+msgid "Menu display on the mobile footer"
+msgstr ""
+
+#: functions.php:421
+msgid "This field is required."
+msgstr ""
+
+#: functions.php:422
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: functions.php:423
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: functions.php:424
+msgid "Please enter a valid number."
+msgstr ""
+
+#: functions.php:425
+msgid "Please enter only digits."
+msgstr ""
+
+#: functions.php:426
+msgid "Please enter the same value."
+msgstr ""
+
+#: functions.php:682
+msgid "You have been logged in as %s!"
+msgstr ""
+
+#: functions.php:683 header.php:147 mobile/page-dashboard.php:10
+#: mobile/page-jobseeker-account.php:10 page-profile.php:12
+#: page-reset-password.php:13
+msgid "Logout"
+msgstr ""
+
+#: functions.php:684
+msgid "This field cannot be blank!"
+msgstr ""
+
+#: functions.php:685 includes/ajax_mobile.php:85 includes/ajax_mobile.php:249
+msgid "Invalid email address!"
+msgstr ""
+
+#: functions.php:686
+msgid "Invalid username!"
+msgstr ""
+
+#: functions.php:687
+msgid "Passwords does not match"
+msgstr ""
+
+#: functions.php:696
+msgid "OK"
+msgstr ""
+
+#: functions.php:698 index.php:193
+msgid "Oops! Sorry, no jobs found"
+msgstr ""
+
+#: functions.php:699 functions.php:726 resumes/front.php:168
+msgid "Please fill out all required fields."
+msgstr ""
+
+#: functions.php:700 functions.php:1388 includes/job.php:235
+#: includes/job.php:236 single-job.php:134 single-job.php:184
+msgid "Anywhere"
+msgstr ""
+
+#: functions.php:701 single-job.php:135
+msgid "View map"
+msgstr ""
+
+#: functions.php:712 includes/template.php:623
+msgid "Archived"
+msgstr ""
+
+#: functions.php:713 includes/template.php:620
+msgid "Active"
+msgstr ""
+
+#: functions.php:714
+msgid "Draft"
+msgstr ""
+
+#: functions.php:715 includes/template.php:622
+msgid "Rejected"
+msgstr ""
+
+#: functions.php:722 resumes/front.php:164
+msgid "You need to finish the previous step first!"
+msgstr ""
+
+#: functions.php:723 resumes/front.php:165
+msgid "SUBMIT"
+msgstr ""
+
+#: functions.php:724 page-post-a-job.php:219 page-post-a-job.php:428
+#: page-upgrade-account.php:125 resumes/front.php:166
+msgid "CONTINUE"
+msgstr ""
+
+#: functions.php:725 resumes/front.php:167
+msgid "Your username must not contain special characters"
+msgstr ""
+
+#: functions.php:727 includes/job.php:344
+msgid "You need an employer account to post a job."
+msgstr ""
+
+#: functions.php:752
+msgid "You can only attach up to "
+msgstr ""
+
+#: functions.php:754 single-job.php:45
+msgid "THIS JOB IS PENDING. YOU CAN APPROVE OR REJECT IT."
+msgstr ""
+
+#: functions.php:755
+msgid "THIS JOB IS PENDING."
+msgstr ""
+
+#: functions.php:756
+msgid "THIS JOB IS ARCHIVED."
+msgstr ""
+
+#: functions.php:757
+msgid "THIS IS A DRAFT."
+msgstr ""
+
+#: functions.php:758
+msgid "THIS JOB IS REJECTED."
+msgstr ""
+
+#: functions.php:792 includes/template.php:740
+msgid "Company logo"
+msgstr ""
+
+#: functions.php:800
+msgid "Recent Job Location "
+msgstr ""
+
+#: functions.php:809
+msgid "Apply method provide "
+msgstr ""
+
+#: functions.php:818
+msgid "Email receive application"
+msgstr ""
+
+#: functions.php:826
+msgid "Job applicant detail"
+msgstr ""
+
+#: functions.php:844 resumes/admin/options-payment-plans.php:62
+#: resumes/admin/options-payment-plans.php:97
+msgid "Duration"
+msgstr ""
+
+#: functions.php:850 includes/template.php:272
+msgid "Featured"
+msgstr ""
+
+#: functions.php:865
+msgid "Full Location"
+msgstr ""
+
+#: functions.php:871
+msgid "Latitude"
+msgstr ""
+
+#: functions.php:877
+msgid "Longitude"
+msgstr ""
+
+#: functions.php:883
+msgid "Payment Plan"
+msgstr ""
+
+#: functions.php:889
+msgid "Job Paid"
+msgstr ""
+
+#: functions.php:895
+msgid "Job Order"
+msgstr ""
+
+#: functions.php:902
+msgid "Job Apply Method"
+msgstr ""
+
+#: functions.php:909
+msgid "Job Apply To Email"
+msgstr ""
+
+#: functions.php:916
+msgid "Job Apply Details"
+msgstr ""
+
+#: functions.php:924
+msgid "Employee email"
+msgstr ""
+
+#: functions.php:931
+msgid "Employee name"
+msgstr ""
+
+#: functions.php:938
+msgid "Company id"
+msgstr ""
+
+#: functions.php:955
+msgid "Reject <span class=\"count\">(%s)</span>"
+msgid_plural "Reject <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:958 functions.php:1075 includes/template.php:275
+#: page-dashboard.php:166 page-dashboard.php:327 template-job.php:72
+msgid "Archive"
+msgstr ""
+
+#: functions.php:963
+msgid "Archive <span class=\"count\">(%s)</span>"
+msgid_plural "Archive <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1163
+msgid "You have just installed JobEngine, we recommend you follow through our <a href='%s'>setup wizard</a> to set up the basic configuration for your website!"
+msgstr ""
+
+#: functions.php:1174
+msgid "Company logo with default size"
+msgstr ""
+
+#: functions.php:1175
+msgid "Small thumbnail for job list items"
+msgstr ""
+
+#: functions.php:1562
+msgid "Browse ..."
+msgstr ""
+
+#: functions.php:1642
+msgid "There was a problem with your upload."
+msgstr ""
+
+#: functions.php:1646
+msgid "Where is the file?"
+msgstr ""
+
+#: functions.php:1671
+msgid "Not enough space to upload. %1$s KB needed."
+msgstr ""
+
+#: functions.php:1673
+msgid "This file is too big. Files must be less than %1$s KB in size."
+msgstr ""
+
+#: functions.php:1675
+msgid "You have used your space quota. Please delete files before uploading."
+msgstr ""
+
+#: functions.php:1805
+msgid "Register a company account"
+msgstr ""
+
+#: functions.php:1861
+msgid "Forgot your password?"
+msgstr ""
+
+#: functions.php:1866
+msgid "Enter your email address"
+msgstr ""
+
+#: functions.php:1875
+msgid "Get Password"
+msgstr ""
+
+#: functions.php:1903
+msgid "Send a message to this company"
+msgstr ""
+
+#: functions.php:1904
+msgid "Why do you reject this job?"
+msgstr ""
+
+#: header.php:117
+msgid "Create a Resume"
+msgstr ""
+
+#: header.php:118
+msgid "CREATE A RESUME"
+msgstr ""
+
+#: header.php:129
+msgid "POST A JOB"
+msgstr ""
+
+#: header.php:142
+msgid "My profile"
+msgstr ""
+
+#: header.php:142 page-password.php:14 page-profile.php:14
+#: page-reset-password.php:11
+msgid "Account"
+msgstr ""
+
+#: header.php:153 mobile/page-register.php:10 page-post-a-job.php:167
+#: page-upgrade-account.php:73 template-apply.php:73
+msgid "Login"
+msgstr ""
+
+#: header.php:170 header.php:171 includes/core/template.php:169
+msgid "Home"
+msgstr ""
+
+#: includes/ajax_mobile.php:8
+msgid "Login failed"
+msgstr ""
+
+#: includes/ajax_mobile.php:17
+msgid "Please type your password !"
+msgstr ""
+
+#: includes/ajax_mobile.php:19
+msgid "Please type your username !"
+msgstr ""
+
+#: includes/ajax_mobile.php:26
+msgid "Invalid username or password!"
+msgstr ""
+
+#: includes/ajax_mobile.php:33
+msgid "Login successfully"
+msgstr ""
+
+#: includes/ajax_mobile.php:37 includes/ajax_mobile.php:148
+#: includes/company.php:443 includes/core/class-object.php:459
+#: includes/core/class-object.php:477 includes/exception.php:13
+#: includes/job.php:678 includes/job.php:730 includes/job.php:750
+#: includes/job.php:806 includes/options/general.php:174
+msgid "There is an error occurred"
+msgstr ""
+
+#: includes/ajax_mobile.php:67
+msgid "Register failed "
+msgstr ""
+
+#: includes/ajax_mobile.php:80
+msgid "Please enter your username !"
+msgstr ""
+
+#: includes/ajax_mobile.php:83 includes/ajax_mobile.php:247
+msgid "Please enter a valid email address "
+msgstr ""
+
+#: includes/ajax_mobile.php:87
+msgid "This email address already exists !"
+msgstr ""
+
+#: includes/ajax_mobile.php:91
+msgid "Please enter password !"
+msgstr ""
+
+#: includes/ajax_mobile.php:93
+msgid "Please retype your password !"
+msgstr ""
+
+#: includes/ajax_mobile.php:95
+msgid "Your passwords doesn't match!"
+msgstr ""
+
+#: includes/ajax_mobile.php:136
+msgid "The email has been sent to "
+msgstr ""
+
+#: includes/ajax_mobile.php:138 includes/ajax_mobile.php:281
+msgid "Failed to send email"
+msgstr ""
+
+#: includes/ajax_mobile.php:145
+msgid "Registered successfully."
+msgstr ""
+
+#: includes/ajax_mobile.php:164
+msgid "no items found"
+msgstr ""
+
+#: includes/ajax_mobile.php:222
+msgid "There is an error occurred : "
+msgstr ""
+
+#: includes/ajax_mobile.php:279
+msgid "The email has been sent."
+msgstr ""
+
+#: includes/application.php:13 includes/application.php:80
+#: includes/company.php:463 includes/options/general.php:188
+msgid "Security error!"
+msgstr ""
+
+#: includes/application.php:18 includes/company.php:449
+#: includes/options/general.php:180
+msgid "Missing image ID"
+msgstr ""
+
+#: includes/application.php:25 includes/company.php:515
+#: includes/options/general.php:227
+msgid "Uploaded file not found"
+msgstr ""
+
+#: includes/application.php:45
+msgid "The file was uploaded successfully"
+msgstr ""
+
+#: includes/application.php:95
+msgid "Please enter your name"
+msgstr ""
+
+#: includes/application.php:98
+msgid "Please enter your valid email address"
+msgstr ""
+
+#: includes/application.php:105
+msgid "This job is not available for application yet"
+msgstr ""
+
+#: includes/application.php:132
+msgid "An unknown error occurred while sending email."
+msgstr ""
+
+#: includes/application.php:161
+msgid "Email invalid"
+msgstr ""
+
+#: includes/application.php:167
+msgid "You have saved this job for later review: %s"
+msgstr ""
+
+#: includes/application.php:175
+msgid "Sorry! The job you requested is not available now!"
+msgstr ""
+
+#: includes/application.php:183
+msgid "<span class=\"msg\">A reminder about this job has been sent to your email. Good luck!</span>"
+msgstr ""
+
+#: includes/application.php:186
+msgid "There is something wrong in the mailing process. Please contact the administrators for more information!"
+msgstr ""
+
+#: includes/application.php:253
+msgid "Your email address is invalid!"
+msgstr ""
+
+#: includes/application.php:256
+msgid "This job is not available for application yet!"
+msgstr ""
+
+#: includes/application.php:266
+msgid "This email address has already been used to apply for this job."
+msgstr ""
+
+#: includes/application.php:268
+msgid "Valid!"
+msgstr ""
+
+#: includes/application.php:294
+msgid "Job"
+msgstr ""
+
+#: includes/company.php:21
+msgid "You have logged in successfully"
+msgstr ""
+
+#: includes/company.php:39
+msgid "Your login information was incorrect. Please try again."
+msgstr ""
+
+#: includes/company.php:86
+msgid "You are registered and logged in successfully."
+msgstr ""
+
+#: includes/company.php:137
+msgid "Please check your email inbox to reset password."
+msgstr ""
+
+#: includes/company.php:156
+msgid "This user is not found."
+msgstr ""
+
+#: includes/company.php:158
+msgid "Invalid Key"
+msgstr ""
+
+#: includes/company.php:160
+msgid "Please enter your new password"
+msgstr ""
+
+#: includes/company.php:181
+msgid "Your password has been changed. Please log in again."
+msgstr ""
+
+#: includes/company.php:251 includes/company.php:280
+msgid "Information has been saved"
+msgstr ""
+
+#: includes/company.php:264
+msgid "Please enter a valid company URL."
+msgstr ""
+
+#: includes/company.php:294
+msgid "Failed to update user data!"
+msgstr ""
+
+#: includes/company.php:317 includes/company.php:359
+msgid "Failed to get user data"
+msgstr ""
+
+#: includes/company.php:381
+msgid "You were logged out successfully."
+msgstr ""
+
+#: includes/company.php:394
+msgid "Please enter all required information to reset your password."
+msgstr ""
+
+#: includes/company.php:401
+msgid "Old password is not correct."
+msgstr ""
+
+#: includes/company.php:405
+msgid "Your new password cannot be empty."
+msgstr ""
+
+#: includes/company.php:412
+msgid "Your password was changed! Please login again!"
+msgstr ""
+
+#: includes/company.php:417
+msgid "Your password has been changed successfully!"
+msgstr ""
+
+#: includes/company.php:425 includes/core/class-object.php:639
+#: includes/job.php:656 includes/job.php:901
+msgid "An error has occurred!"
+msgstr ""
+
+#: includes/company.php:456
+msgid "Missing company data"
+msgstr ""
+
+#: includes/company.php:502
+msgid "Company logo has been uploaded successfully!"
+msgstr ""
+
+#: includes/company.php:507
+msgid "Problem occurred while updating user field"
+msgstr ""
+
+#: includes/company.php:612
+msgid "Write your instructions here"
+msgstr ""
+
+#: includes/core/class-admin-menu.php:129
+#: includes/core/class-admin-menu.php:130
+msgid "Engine Settings"
+msgstr ""
+
+#: includes/core/class-admin-menu.php:252
+msgid "Administration"
+msgstr ""
+
+#: includes/core/class-admin-menu.php:252
+msgid "You are an admin. Here you administrate."
+msgstr ""
+
+#: includes/core/class-admin-menu.php:331
+#: includes/core/class-admin-menu.php:333
+msgid "Menu"
+msgstr ""
+
+#: includes/core/class-authentication.php:299
+msgid "This email address was not found."
+msgstr ""
+
+#: includes/core/class-authentication.php:314
+msgid "Username is invalid"
+msgstr ""
+
+#: includes/core/class-authentication.php:366
+msgid "<strong>ERROR</strong>: Enter username or email address."
+msgstr ""
+
+#: includes/core/class-authentication.php:370
+msgid "<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: includes/core/class-authentication.php:382
+msgid "<strong>ERROR</strong>: Invalid username or email address."
+msgstr ""
+
+#: includes/core/class-authentication.php:396
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/core/class-authentication.php:412
+msgid "There is a request to reset the password for the following account:"
+msgstr ""
+
+#: includes/core/class-authentication.php:414
+msgid "Username: %s"
+msgstr ""
+
+#: includes/core/class-authentication.php:415
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/core/class-authentication.php:416
+msgid "To reset your password, visit the following link:"
+msgstr ""
+
+#: includes/core/class-authentication.php:428
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/core/class-authentication.php:434
+msgid "The email could not be sent."
+msgstr ""
+
+#: includes/core/class-authentication.php:434
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#: includes/core/class-authentication.php:454
+#: includes/core/class-authentication.php:457
+#: includes/core/class-authentication.php:463
+msgid "Invalid key"
+msgstr ""
+
+#: includes/core/class-importer.php:727
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/core/class-importer.php:733
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/core/class-importer.php:740
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/core/class-importer.php:745
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/core/class-importer.php:751
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/core/class-object.php:400
+msgid "%s has been deleted!"
+msgstr ""
+
+#: includes/core/class-object.php:420
+msgid "Error when trying to add new %s!"
+msgstr ""
+
+#: includes/core/class-object.php:432
+msgid "%s has been inserted"
+msgstr ""
+
+#: includes/core/class-object.php:447
+msgid "%s has been updated"
+msgstr ""
+
+#: includes/core/class-object.php:503
+msgid "Move posts to"
+msgstr ""
+
+#: includes/core/class-object.php:513
+msgid "Accept"
+msgstr ""
+
+#: includes/core/class-object.php:569
+msgid "Add a category"
+msgstr ""
+
+#: includes/core/class-object.php:589
+msgid "Add sub tax for this tax"
+msgstr ""
+
+#: includes/core/class-object.php:633
+msgid "%s color has been updated"
+msgstr ""
+
+#: includes/core/class-object.php:693
+msgid "Add a job type"
+msgstr ""
+
+#: includes/core/customization.php:144
+msgid "File is not exist"
+msgstr ""
+
+#: includes/core/parsers.php:42 includes/core/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/core/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: includes/core/parsers.php:67 includes/core/parsers.php:72
+#: includes/core/parsers.php:262 includes/core/parsers.php:452
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/core/template.php:86
+msgid "Please fill out the form below "
+msgstr ""
+
+#: includes/core/template.php:250
+msgid "Search results for \"%s \""
+msgstr ""
+
+#: includes/core/template.php:253
+msgid "Posts tagged  \"%s \""
+msgstr ""
+
+#: includes/core/template.php:258
+msgid "Articles posted by  %s "
+msgstr ""
+
+#: includes/core/template.php:261
+msgid "Error 404"
+msgstr ""
+
+#: includes/core/template.php:266
+msgid "Page"
+msgstr ""
+
+#: includes/customizer.php:134
+msgid "Changes are saved successfully."
+msgstr ""
+
+#: includes/customizer.php:141
+msgid "Something went wrong! System cause following error <br/> %s"
+msgstr ""
+
+#: includes/customizer.php:234
+msgid "Page Options"
+msgstr ""
+
+#: includes/customizer.php:237
+msgid "Layout Style"
+msgstr ""
+
+#: includes/customizer.php:240
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/customizer.php:243
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/customizer.php:246 includes/options/general.php:56
+msgid "One column"
+msgstr ""
+
+#: includes/customizer.php:249
+msgid "Background patterns"
+msgstr ""
+
+#: includes/customizer.php:260
+msgid "Colors"
+msgstr ""
+
+#: includes/customizer.php:264
+msgid "Header Background"
+msgstr ""
+
+#: includes/customizer.php:268
+msgid "Page Background"
+msgstr ""
+
+#: includes/customizer.php:272
+msgid "Footer Background"
+msgstr ""
+
+#: includes/customizer.php:276
+msgid "Hyperlink"
+msgstr ""
+
+#: includes/customizer.php:283
+msgid "Content Options"
+msgstr ""
+
+#: includes/customizer.php:316 includes/options/general.php:332
+#: resumes/admin/options.php:149
+msgid "Content"
+msgstr ""
+
+#: includes/customizer.php:335
+msgid "Reset"
+msgstr ""
+
+#: includes/customizer.php:346
+msgid "Activate customization mode"
+msgstr ""
+
+#: includes/exception.php:6 resumes/resumes.php:1380
+msgid "Permission Denied!"
+msgstr ""
+
+#: includes/index.php:76
+msgid "Jobs posted by  %s "
+msgstr ""
+
+#: includes/index.php:179 includes/job.php:1464
+msgid "View all posts in %s"
+msgstr ""
+
+#: includes/index.php:228
+msgid "Your Name"
+msgstr ""
+
+#: includes/index.php:235
+msgid "Your Email"
+msgstr ""
+
+#: includes/index.php:242
+msgid "Your Website"
+msgstr ""
+
+#: includes/index.php:303
+msgid "View all posts by %s "
+msgstr ""
+
+#: includes/index.php:345 mobile/functions.php:221
+msgid "There is no posts yet."
+msgstr ""
+
+#: includes/index.php:367 includes/index.php:435
+msgid "Error!"
+msgstr ""
+
+#: includes/index.php:502
+msgid "Congratulations! You have successfully registered to %s."
+msgstr ""
+
+#: includes/index.php:536
+msgid "Password updated successfully!"
+msgstr ""
+
+#: includes/index.php:554 includes/index.php:604 template-apply.php:38
+msgid "<span><strong>Congratulations!</strong></span><br /><span class=\"msg\">Your application has been sent. Good luck!</span>"
+msgstr ""
+
+#: includes/index.php:577 resumes/resumes.php:1565
+msgid "Application for %s you posted on %s"
+msgstr ""
+
+#: includes/index.php:590 resumes/resumes.php:1573
+msgid "Application for %s you sent through %s"
+msgstr ""
+
+#: includes/index.php:592 resumes/resumes.php:1555
+msgid "<p>Dear %s,</p> <p>You have sent your application successfully for this job: %s. Here is the email which was sent to the employer.</p>"
+msgstr ""
+
+#: includes/index.php:643
+msgid "Your job “ %s ” posted in %s has been approved!"
+msgstr ""
+
+#: includes/index.php:651
+msgid "Your job %s posted in %s has been archived!"
+msgstr ""
+
+#: includes/index.php:821
+msgid "Cash payment notification"
+msgstr ""
+
+#: includes/job.php:128
+msgid "The job has been deleted!"
+msgstr ""
+
+#: includes/job.php:149
+msgid "The job has been approved!"
+msgstr ""
+
+#: includes/job.php:155
+msgid "The job has been rejected!"
+msgstr ""
+
+#: includes/job.php:160
+msgid "The job has been archived!"
+msgstr ""
+
+#: includes/job.php:165 includes/job.php:831 includes/job.php:1637
+#: includes/payment/et-payment.php:512
+msgid "Invalid input!"
+msgstr ""
+
+#: includes/job.php:349
+msgid "Please fill in all required fields!"
+msgstr ""
+
+#: includes/job.php:479
+msgid "Your job has been saved successfully!"
+msgstr ""
+
+#: includes/job.php:482
+msgid "Your job has been submitted successfully!"
+msgstr ""
+
+#: includes/job.php:562
+msgid "The job has been changed successfully!"
+msgstr ""
+
+#: includes/job.php:692
+msgid "Job category has been deleted!"
+msgstr ""
+
+#: includes/job.php:707
+msgid "Error when trying to add new job category!"
+msgstr ""
+
+#: includes/job.php:713
+msgid "Job category has been inserted"
+msgstr ""
+
+#: includes/job.php:726
+msgid "Job category has been updated"
+msgstr ""
+
+#: includes/job.php:765
+msgid "Job type has been deleted!"
+msgstr ""
+
+#: includes/job.php:767
+msgid "Default job type hasn't been set"
+msgstr ""
+
+#: includes/job.php:777
+msgid "Error when trying to add new job type!"
+msgstr ""
+
+#: includes/job.php:788 includes/job.php:800
+msgid "Job type has been inserted!"
+msgstr ""
+
+#: includes/job.php:802
+msgid "Error when trying to update job type!"
+msgstr ""
+
+#: includes/job.php:877
+msgid "Data is fetched successfully"
+msgstr ""
+
+#: includes/job.php:895
+msgid "Job type's color has been updated"
+msgstr ""
+
+#: includes/job.php:1054 includes/job.php:1060 includes/job.php:1111
+#: includes/job.php:1117
+msgid "Job type is invalid"
+msgstr ""
+
+#: includes/job.php:1056 includes/job.php:1066 includes/job.php:1113
+#: includes/job.php:1123
+msgid "Job category is invalid"
+msgstr ""
+
+#: includes/job.php:1099 includes/schedule.php:196 includes/schedule.php:239
+#: includes/schedule.php:276
+msgid "Invalid Job ID"
+msgstr ""
+
+#: includes/job.php:1634
+msgid "No job was found"
+msgstr ""
+
+#: includes/job.php:1847
+msgid "Your job has been rejected"
+msgstr ""
+
+#: includes/job.php:2036 includes/job.php:2048
+msgid "Rejected jobs"
+msgstr ""
+
+#: includes/job.php:2041 index.php:169
+msgid "LATEST JOBS"
+msgstr ""
+
+#: includes/job.php:2044
+msgid "Archived jobs"
+msgstr ""
+
+#: includes/job.php:2052
+msgid "Archived & rejected jobs"
+msgstr ""
+
+#: includes/languages.php:191 includes/languages.php:273
+#: includes/languages.php:440 includes/languages.php:526
+msgid "Invalid file name!"
+msgstr ""
+
+#: includes/languages.php:205 includes/languages.php:454
+msgid "There was no changes in your translation."
+msgstr ""
+
+#: includes/languages.php:261 includes/languages.php:511
+msgid "Translation saved! "
+msgstr ""
+
+#: includes/languages.php:283 includes/languages.php:536
+msgid "Adding new language successfully."
+msgstr ""
+
+#: includes/languages.php:339 includes/languages.php:356
+#: includes/languages.php:593 includes/languages.php:610
+msgid "Type the translation in your language"
+msgstr ""
+
+#: includes/languages.php:362 includes/languages.php:616
+msgid "Loading successfully!"
+msgstr ""
+
+#: includes/options/class-ops-general.php:22
+msgid "Site title"
+msgstr ""
+
+#: includes/options/class-ops-general.php:23
+msgid "Site description"
+msgstr ""
+
+#: includes/options/class-ops-general.php:24
+msgid "Site demonstration"
+msgstr ""
+
+#: includes/options/class-ops-general.php:25
+msgid "Site logo"
+msgstr ""
+
+#: includes/options/class-ops-general.php:26
+msgid "Site mobile icon"
+msgstr ""
+
+#: includes/options/class-ops-general.php:27
+msgid "Default company logo"
+msgstr ""
+
+#: includes/options/class-ops-general.php:28
+msgid "Site language"
+msgstr ""
+
+#: includes/options/class-ops-general.php:29
+msgid "Site layout"
+msgstr ""
+
+#: includes/options/class-ops-general.php:31
+msgid "Twitter Account"
+msgstr ""
+
+#: includes/options/class-ops-general.php:33
+msgid "Site Customization"
+msgstr ""
+
+#: includes/options/class-ops-general.php:34
+msgid "Copyright information"
+msgstr ""
+
+#: includes/options/class-ops-general.php:35
+msgid "Google analytics"
+msgstr ""
+
+#: includes/options/class-ops-general.php:385
+msgid "Pending Job"
+msgstr ""
+
+#: includes/options/class-ops-general.php:387
+msgid "Contact Widget"
+msgstr ""
+
+#: includes/options/class-ops-general.php:388
+msgid "Payment Follow Widget"
+msgstr ""
+
+#: includes/options/class-ops-general.php:389 resumes/admin.php:82
+#: resumes/front.php:334 resumes/template.php:399
+msgid "Upgrade account"
+msgstr ""
+
+#: includes/options/class-ops-general.php:431
+#: includes/options/class-ops-general.php:444
+#: includes/options/class-ops-general.php:451
+#: includes/options/class-ops-general.php:462
+#: includes/options/class-ops-general.php:492
+msgid "You can modify this text by clicking the edit button below or delete this box using the delete button"
+msgstr ""
+
+#: includes/options/class-ops-general.php:555
+msgid "Register Email template"
+msgstr ""
+
+#: includes/options/class-ops-general.php:556
+msgid "Forgot-password Email template"
+msgstr ""
+
+#: includes/options/class-ops-general.php:557
+msgid "Reset-password Email template"
+msgstr ""
+
+#: includes/options/class-ops-general.php:558
+msgid "Apply-for-job Email template"
+msgstr ""
+
+#: includes/options/class-ops-general.php:559
+msgid "Remind-job Email template"
+msgstr ""
+
+#: includes/options/class-ops-general.php:560
+msgid "Approve-job Email template"
+msgstr ""
+
+#: includes/options/class-ops-general.php:561
+msgid "Reject-job Email template"
+msgstr ""
+
+#: includes/options/class-ops-general.php:562
+msgid "Archive-job Email template"
+msgstr ""
+
+#: includes/options/class-ops-general.php:563
+msgid "Cash notification mail"
+msgstr ""
+
+#: includes/options/class-ops-general.php:623
+#: includes/options/class-ops-general.php:629
+msgid "<p>Dear [display_name],</p><p>[cash_message]</p><p>Sincerely,<br/> [blogname].</p>"
+msgstr ""
+
+#: includes/options/class-ops-general.php:635
+#: includes/options/class-ops-general.php:641
+msgid "<p>Hello [display_name],</p><p>You have successfully registered an account with&nbsp;&nbsp;[blogname].&nbsp;Here is your account information:</p><ol><li>Username: [user_login]</li><li>Email: [user_email]</li></ol><p>Thank you and welcome to [blogname].</p>"
+msgstr ""
+
+#: includes/options/class-ops-general.php:649
+#: includes/options/class-ops-general.php:655
+msgid "<p>Hello [display_name],</p><p>You have just sent a request to recover the password associated with your account in [blogname]. If you did not make this request, please ignore this email; otherwise, click the link below to create your new password:</p><p>[activate_url]</p><p>Regards,<br />[blogname]</p>"
+msgstr ""
+
+#: includes/options/class-ops-general.php:663
+#: includes/options/class-ops-general.php:669
+msgid "<p>Hello [display_name],</p><p>You have successfully changed your password. Click this link&nbsp;[site_url] to login to your [blogname]'s account.</p><p>Sincerely,<br />[blogname]</p>"
+msgstr ""
+
+#: includes/options/class-ops-general.php:679
+#: includes/options/class-ops-general.php:689
+msgid "<p>Dear [display_name],</p><p>Your job offer for [job_title] posted in [blogname] has a new application.</p><p>Here are the applicant's information:</p><ol><li>Name: &nbsp;[seeker_name]</li><li>Email address: [seeker_mail]</li><li>Note: [seeker_note]</li></ol><p>The files of the applicant are also attached in this email.</p><p>And here is the link to your job offer: [job_link].</p><p>Sincerely,<br />[blogname]</p>"
+msgstr ""
+
+#: includes/options/class-ops-general.php:699
+#: includes/options/class-ops-general.php:709
+msgid "<p>Hello [seeker_email],</p><p>You have just saved a job in [blogname] for later viewing. Here are the job information:</p><ol><li>Job title: [job_title]</li>\t<li>Job link: [job_link]</li><li>Company name: [company]</li><li>Your note: [remind_note]</li></ol><p>Regards,<br />[blogname]</p>"
+msgstr ""
+
+#: includes/options/class-ops-general.php:719
+#: includes/options/class-ops-general.php:729
+msgid "<p>Dear [display_name],</p><p>Your job [job_title] posted in [blogname] has been approved.</p><p>You can follow this link: [job_link] to view your job offer.</p><p>Sincerely,<br />[blogname]</p>"
+msgstr ""
+
+#: includes/options/class-ops-general.php:739
+#: includes/options/class-ops-general.php:749
+msgid "<p>Dear [display_name],</p><p>Your job: [job_title] in [blogname] has been archived due to expiration or manual administrative action.</p><p>If you want to continue displaying this job in our website, please go to your dashboard at [dashboard] to renew your job offer.</p><p>Sincerely,<br />[blogname]</p>"
+msgstr ""
+
+#: includes/options/class-ops-general.php:759
+#: includes/options/class-ops-general.php:769
+msgid "<p>Dear [display_name],</p><p>Your job [job_title] posted in [blogname] has been rejected. Noted reason: [reason]</p><p>Please contact the administrators via [admin_email] for more information, or go to your dashboard at [dashboard] to edit your job offer and post it again.</p><p>Sincerely,<br />[blogname]</p>"
+msgstr ""
+
+#: includes/options/general.php:46
+msgid "Two columns with right sidebar"
+msgstr ""
+
+#: includes/options/general.php:51
+msgid "Two columns with left sidebar"
+msgstr ""
+
+#: includes/options/general.php:214
+msgid "Branding image has been uploaded successfully"
+msgstr ""
+
+#: includes/options/general.php:219
+msgid "Error when updating settings."
+msgstr ""
+
+#: includes/options/general.php:271 includes/options/general.php:286
+msgid "You have not completed all required fields yet."
+msgstr ""
+
+#: includes/options/general.php:275
+msgid "Yay! You have completed the setup wizard. Your website is ready now!"
+msgstr ""
+
+#: includes/options/general.php:334
+msgid "Insert Sample Data"
+msgstr ""
+
+#: includes/payment/et-2CO.php:158
+msgid "Your 2Checkout was disabled because of invalid settings!"
+msgstr ""
+
+#: includes/payment/et-authorize.php:155
+msgid "Your Authorize.NET was disabled because of invalid settings!"
+msgstr ""
+
+#: includes/payment/et-authorize.php:224
+msgid "Send your payment via Authorize.Net"
+msgstr ""
+
+#: includes/payment/et-cash.php:22
+msgid "Please send your payment to account number: XXXX. Once payment has been verified, admin will approve your post or request."
+msgstr ""
+
+#: includes/payment/et-google-checkout.php:91
+msgid "Your Google Checkout was disabled because of invalid settings!"
+msgstr ""
+
+#: includes/payment/et-order.php:75
+msgid "Order"
+msgstr ""
+
+#: includes/payment/et-order.php:419
+msgid "Post job"
+msgstr ""
+
+#: includes/payment/et-payment.php:39
+msgid "Send your payment via Paypal."
+msgstr ""
+
+#: includes/payment/et-payment.php:42
+msgid "Send your payment via 2Checkout."
+msgstr ""
+
+#: includes/payment/et-payment.php:45
+msgid "Pay using your Google Wallet."
+msgstr ""
+
+#: includes/payment/et-payment.php:48
+msgid "Send your cash payment to our bank account"
+msgstr ""
+
+#: includes/payment/et-payment.php:63
+msgid "Australian Dollar"
+msgstr ""
+
+#: includes/payment/et-payment.php:66
+msgid "Canadian Dollar"
+msgstr ""
+
+#: includes/payment/et-payment.php:69
+msgid "Euro"
+msgstr ""
+
+#: includes/payment/et-payment.php:72 includes/payment/et-payment.php:116
+msgid "American Dollar"
+msgstr ""
+
+#: includes/payment/et-payment.php:75
+msgid "Japanese Yen"
+msgstr ""
+
+#: includes/payment/et-payment.php:78
+msgid "British Pound"
+msgstr ""
+
+#: includes/payment/et-payment.php:81
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: includes/payment/et-payment.php:84
+msgid "Swiss Franc"
+msgstr ""
+
+#: includes/payment/et-payment.php:87
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: includes/payment/et-payment.php:90
+msgid "Singapore Dollar"
+msgstr ""
+
+#: includes/payment/et-payment.php:325
+msgid "Your Paypal was disabled because of invalid settings!"
+msgstr ""
+
+#: includes/payment/payment-visitor.php:57
+#: includes/payment/payment-visitor.php:61 includes/payment.php:109
+#: resumes/admin.php:143
+msgid "Invalid payment gateway"
+msgstr ""
+
+#: includes/payment/payment-visitor.php:296
+#: includes/payment/payment-visitor.php:306
+msgid "MD5 False"
+msgstr ""
+
+#: includes/payment/payment-visitor.php:297
+msgid "In  Demo mode the 2Checkout order number is changed to '1' which will cause the hash to fail this. This is intentional so that merchants selling downloadable products and services can compare the hash to determine whether to provide a product to a customer"
+msgstr ""
+
+#: includes/payment/payment-visitor.php:307
+msgid "Md5 check sum not match!"
+msgstr ""
+
+#: includes/payment/payment-visitor.php:337
+msgid "Discount"
+msgstr ""
+
+#: includes/payment/payment-visitor.php:338
+msgid "You have use a coupon code to get discount"
+msgstr ""
+
+#: includes/payment/payment-visitor.php:428
+msgid "Fraudulent or error!"
+msgstr ""
+
+#: includes/payment/payment-visitor.php:483
+#: includes/payment/payment-visitor.php:484
+msgid "Invalid order ID"
+msgstr ""
+
+#: includes/payment.php:16
+msgid "Invalid job ID!"
+msgstr ""
+
+#: includes/payment.php:23
+msgid "Job author information is incorrect!"
+msgstr ""
+
+#: includes/payment.php:29
+msgid "Invalid job package ID!"
+msgstr ""
+
+#: includes/payment.php:143 resumes/admin/options.php:391
+msgid "Payment plans have been sorted"
+msgstr ""
+
+#: includes/payment.php:428 page-post-a-job.php:144 page-post-a-job.php:479
+#: page-upgrade-account.php:205
+msgid "Select"
+msgstr ""
+
+#: includes/payment.php:486
+msgid "Authorize.Net"
+msgstr ""
+
+#: includes/payment.php:491
+msgid "Your Authorize API Login "
+msgstr ""
+
+#: includes/payment.php:499
+msgid "Your Authorize API Transaction Key "
+msgstr ""
+
+#: includes/payment.php:507
+msgid "Your Authorize API MD5 Hash "
+msgstr ""
+
+#: includes/payment.php:513
+msgid "Note: Authorized.Net only supports USD at the moment."
+msgstr ""
+
+#: includes/template.php:276
+msgid "View jobs posted by "
+msgstr ""
+
+#: includes/template.php:277
+msgid "Remove Featured"
+msgstr ""
+
+#: includes/template.php:278
+msgid "Set Featured"
+msgstr ""
+
+#: includes/template.php:279 index.php:82
+msgid "PAID"
+msgstr ""
+
+#: includes/template.php:280 index.php:82 page-dashboard.php:187
+msgid "UNPAID"
+msgstr ""
+
+#: includes/template.php:281 index.php:83
+msgid "FREE"
+msgstr ""
+
+#: includes/template.php:349
+msgid "%d view"
+msgstr ""
+
+#: includes/template.php:350 single-job.php:82
+msgid "%d views"
+msgstr ""
+
+#: includes/template.php:608 single-job.php:75
+msgid "EDIT THIS JOB"
+msgstr ""
+
+#: includes/template.php:616
+msgid "JOB DETAILS"
+msgstr ""
+
+#: includes/template.php:642
+msgid "Job Title"
+msgstr ""
+
+#: includes/template.php:650
+msgid "Job Description"
+msgstr ""
+
+#: includes/template.php:661
+msgid "Job Location"
+msgstr ""
+
+#: includes/template.php:670 page-post-a-job.php:308
+msgid "Examples: \"Melbourne VIC\", \"Seattle\", \"Anywhere\""
+msgstr ""
+
+#: includes/template.php:672 page-post-a-job.php:310
+msgid "Display location as"
+msgstr ""
+
+#: includes/template.php:672 page-post-a-job.php:310
+msgid "Edit location"
+msgstr ""
+
+#: includes/template.php:686
+msgid "How To Apply"
+msgstr ""
+
+#: includes/template.php:693
+msgid "Allow job seeker to submit their cover letter and resume directly"
+msgstr ""
+
+#: includes/template.php:696 page-post-a-job.php:333
+msgid "Send applications to this email address:"
+msgstr ""
+
+#: includes/template.php:698 page-post-a-job.php:335
+msgid "e.g. 'application@demo.com'"
+msgstr ""
+
+#: includes/template.php:702
+msgid "Or, provide application details below"
+msgstr ""
+
+#: includes/template.php:714
+msgid "Contract Type"
+msgstr ""
+
+#: includes/template.php:722
+msgid "Job Category"
+msgstr ""
+
+#: includes/template.php:735
+msgid "Company Details"
+msgstr ""
+
+#: includes/template.php:749 page-profile.php:45 resumes/template.php:217
+msgid "Company Name"
+msgstr ""
+
+#: includes/template.php:755
+msgid "Website"
+msgstr ""
+
+#: includes/template.php:769 page-jobseeker-account.php:61 page-password.php:65
+#: page-profile.php:92 page-reset-password.php:67
+msgid "SAVE CHANGE"
+msgstr ""
+
+#: includes/template.php:816 mobile/header-mobile.php:119
+msgid "JOBS"
+msgstr ""
+
+#: includes/update.php:200
+msgid "Key is invalid"
+msgstr ""
+
+#: includes/widgets.php:5 includes/widgets.php:43 includes/widgets.php:87
+msgid "This widget should only be dragged to the main sidebar to function properly."
+msgstr ""
+
+#: includes/widgets.php:6 includes/widgets.php:23 includes/widgets.php:236
+#: page-post-a-job.php:350
+msgid "CONTRACT TYPE"
+msgstr ""
+
+#: includes/widgets.php:44 includes/widgets.php:54 includes/widgets.php:232
+msgid "JOB CATEGORIES"
+msgstr ""
+
+#: includes/widgets.php:88
+msgid "JE Locations Filter"
+msgstr ""
+
+#: includes/widgets.php:94
+msgid "JOB LOCATIONS"
+msgstr ""
+
+#: includes/widgets.php:111
+msgid "Locations (separate location by semi-colon):"
+msgstr ""
+
+#: includes/widgets.php:145
+msgid "Drag this widget to any sidebar to display the total count of active companies and jobs."
+msgstr ""
+
+#: includes/widgets.php:147
+msgid "JE Companies &amp; Jobs Count"
+msgstr ""
+
+#: includes/widgets.php:162
+msgid "COMPANIES & JOBS"
+msgstr ""
+
+#: includes/widgets.php:179
+msgid "This widget will display the company information and should only be dragged to the company sidebar or job detail sidebar to function properly."
+msgstr ""
+
+#: includes/widgets.php:181
+msgid "JE Company Profile"
+msgstr ""
+
+#: includes/widgets.php:196 page-dashboard.php:67 page-password.php:24
+#: page-profile.php:24
+msgid "COMPANY PROFILE"
+msgstr ""
+
+#: includes/widgets.php:352
+msgid "Homepage Main Sidebar"
+msgstr ""
+
+#: includes/widgets.php:354
+msgid "Drop widgets here to position them at the left/right area of your Homepage"
+msgstr ""
+
+#: includes/widgets.php:363
+msgid "Homepage Top Sidebar"
+msgstr ""
+
+#: includes/widgets.php:365
+msgid "Drop widgets here to position them at the top of your Homepage, below the demonstration text"
+msgstr ""
+
+#: includes/widgets.php:374
+msgid "Homepage Bottom Sidebar"
+msgstr ""
+
+#: includes/widgets.php:376
+msgid "Drop widgets here to position them at the bottom of your Homepage, below the load more button"
+msgstr ""
+
+#: includes/widgets.php:385
+msgid "Blog Sidebar"
+msgstr ""
+
+#: includes/widgets.php:387
+msgid "Drop widgets here to position them in the Blog Page"
+msgstr ""
+
+#: includes/widgets.php:396
+msgid "Page Sidebar"
+msgstr ""
+
+#: includes/widgets.php:398
+msgid "Drop widgets here to position them in the Static Page"
+msgstr ""
+
+#: includes/widgets.php:407
+msgid "Companies Sidebar"
+msgstr ""
+
+#: includes/widgets.php:409
+msgid "Drop widgets here to position them in Companies page"
+msgstr ""
+
+#: includes/widgets.php:418
+msgid "Company Sidebar"
+msgstr ""
+
+#: includes/widgets.php:420
+msgid "Drop widgets here to position them in the Company Profile page"
+msgstr ""
+
+#: includes/widgets.php:429
+msgid " Job Detail Sidebar"
+msgstr ""
+
+#: includes/widgets.php:431
+msgid "Drop widgets here to position them in the Job Post page"
+msgstr ""
+
+#: includes/widgets.php:474 index.php:106 index.php:120
+#: mobile/single-job.php:23 single-job.php:97 single-job.php:108
+#: template-job.php:25 template-job.php:39
+msgid "View posted jobs by %s"
+msgstr ""
+
+#: includes/widgets.php:483
+msgid "View jobs posted by %s"
+msgstr ""
+
+#: includes/widgets.php:514
+msgid "<strong>Admin notice:</strong> JE Company Profile widget should only be dragged to the company sidebar or job detail sidebar to function properly."
+msgstr ""
+
+#: includes/widgets.php:544
+msgid "Available jobs"
+msgstr ""
+
+#: index.php:14
+msgid "Enter a keyword"
+msgstr ""
+
+#: index.php:18
+msgid "Enter a location"
+msgstr ""
+
+#: index.php:68
+msgid "PENDING JOBS"
+msgstr ""
+
+#: index.php:127 template-job.php:46
+msgid "View all posted jobs in %s"
+msgstr ""
+
+#: mobile/archive-resume.php:9
+msgid "Enter job titles or skills"
+msgstr ""
+
+#: mobile/archive-resume.php:19 mobile/index.php:22
+msgid "Enter the location..."
+msgstr ""
+
+#: mobile/archive-resume.php:27
+msgid "Availables"
+msgstr ""
+
+#: mobile/archive-resume.php:34 mobile/index.php:37
+msgid "All categories"
+msgstr ""
+
+#: mobile/archive-resume.php:94
+msgid "Load More Resumes"
+msgstr ""
+
+#: mobile/companies.php:70 mobile/index.php:79
+msgid "Featured Jobs"
+msgstr ""
+
+#: mobile/header-mobile.php:4
+msgid " - Mobile version"
+msgstr ""
+
+#: mobile/header-mobile.php:93
+msgid "Back"
+msgstr ""
+
+#: mobile/header-mobile.php:124 resumes/admin/options.php:8
+#: resumes/template.php:10
+msgid "RESUMES"
+msgstr ""
+
+#: mobile/index.php:12
+msgid "Enter job titles"
+msgstr ""
+
+#: mobile/index.php:30
+msgid "Contract types"
+msgstr ""
+
+#: mobile/page-dashboard.php:4 mobile/page-jobseeker-account.php:4
+msgid "Log Out"
+msgstr ""
+
+#: mobile/page-login.php:6
+msgid "Login to %s"
+msgstr ""
+
+#: mobile/page-login.php:23 mobile/page-register.php:36
+msgid "Continue"
+msgstr ""
+
+#: mobile/page-register.php:7
+msgid "Register to %s"
+msgstr ""
+
+#: mobile/page-register.php:19 page-jobseeker-account.php:44
+#: page-jobseeker-signup.php:106 template-apply.php:137 template-apply.php:202
+#: template-apply.php:265
+msgid "Email Address"
+msgstr ""
+
+#: mobile/page-upgrade-account.php:10 mobile/unsupported.php:10
+msgid "Sorry, this feature is not supported in mobile version yet."
+msgstr ""
+
+#: mobile/single-job.php:57 mobile/single-job.php:94
+msgid "Save this job"
+msgstr ""
+
+#: mobile/single-job.php:62 mobile/single-job.php:99
+#: mobile/single-resume.php:132 single-job.php:162
+msgid "Share"
+msgstr ""
+
+#: mobile/single-job.php:69 mobile/single-job.php:103
+msgid "Tweet this job"
+msgstr ""
+
+#: mobile/single-job.php:74 mobile/single-job.php:108
+#: mobile/single-resume.php:141
+msgid "Share on Facebook"
+msgstr ""
+
+#: mobile/single-job.php:79 mobile/single-job.php:113
+#: mobile/single-resume.php:146
+msgid "Send via Email"
+msgstr ""
+
+#: mobile/single-job.php:88
+msgid "Email reminder"
+msgstr ""
+
+#: mobile/single-job.php:89
+msgid "We will send you an email with the job information for later review."
+msgstr ""
+
+#: mobile/single-resume.php:16 resumes/job_seekers.php:600 single-resume.php:62
+msgid "Profile of %s"
+msgstr ""
+
+#: mobile/single-resume.php:56
+msgid "ABOUT ME"
+msgstr ""
+
+#: mobile/single-resume.php:62
+msgid "EDUCATION"
+msgstr ""
+
+#: mobile/single-resume.php:77
+msgid "WORK EXPERIENCE"
+msgstr ""
+
+#: mobile/single-resume.php:91
+msgid "Skill"
+msgstr ""
+
+#: mobile/single-resume.php:100 single-resume.php:544
+msgid "CONTACT"
+msgstr ""
+
+#: mobile/single-resume.php:136
+msgid "Tweet this profile"
+msgstr ""
+
+#: mobile/single-resume.php:157 single-resume.php:562
+msgid "Message %s"
+msgstr ""
+
+#: mobile/single-resume.php:170 single-resume.php:573
+msgid "Your name"
+msgstr ""
+
+#: mobile/single-resume.php:174 single-resume.php:579
+msgid "Email address"
+msgstr ""
+
+#: mobile/single-resume.php:178 single-resume.php:585
+msgid "Message"
+msgstr ""
+
+#: mobile/single-resume.php:185
+msgid "Send"
+msgstr ""
+
+#: mobile/single.php:13
+msgid "Our Blog"
+msgstr ""
+
+#: mobile/single.php:41 single.php:56
+msgid "0 Comment on this Article"
+msgstr ""
+
+#: mobile/single.php:41 single.php:56
+msgid "1 Comment on this Article"
+msgstr ""
+
+#: mobile/single.php:41 single.php:56
+msgid "% Comments on this Article"
+msgstr ""
+
+#: mobile/unsupported.php:5
+msgid "This page is unsupported :("
+msgstr ""
+
+#: page-companies.php:33
+msgid "Enter a keyword ..."
+msgstr ""
+
+#: page-dashboard.php:54 page-password.php:12 page-profile.php:12
+msgid "LOGOUT"
+msgstr ""
+
+#: page-dashboard.php:56 page-jobseeker-account.php:29
+msgid "ACCOUNT"
+msgstr ""
+
+#: page-dashboard.php:66 page-password.php:23 page-profile.php:23
+msgid "YOUR JOBS"
+msgstr ""
+
+#: page-dashboard.php:68 page-password.php:25 page-post-a-job.php:197
+#: page-post-a-job.php:237 page-profile.php:25 page-upgrade-account.php:103
+#: page-upgrade-account.php:143
+msgid "PASSWORD"
+msgstr ""
+
+#: page-dashboard.php:106 single-job.php:40
+msgid "ARCHIVED"
+msgstr ""
+
+#: page-dashboard.php:111
+msgid "DRAFT"
+msgstr ""
+
+#: page-dashboard.php:116 single-job.php:39
+msgid "PENDING"
+msgstr ""
+
+#: page-dashboard.php:121 single-job.php:42
+msgid "ACTIVE"
+msgstr ""
+
+#: page-dashboard.php:126 single-job.php:41
+msgid "REJECTED"
+msgstr ""
+
+#: page-dashboard.php:162
+msgid "Choose another payment method"
+msgstr ""
+
+#: page-dashboard.php:174 page-dashboard.php:179 page-dashboard.php:332
+msgid "Permanently delete"
+msgstr ""
+
+#: page-dashboard.php:178 page-dashboard.php:331
+msgid "Renew"
+msgstr ""
+
+#: page-dashboard.php:198
+msgid "( %s applicant )"
+msgstr ""
+
+#: page-dashboard.php:204
+msgid "( %s applicants )"
+msgstr ""
+
+#: page-dashboard.php:237
+msgid "Download"
+msgstr ""
+
+#: page-dashboard.php:272
+msgid "You have %d jobs in <span class=\"impress\">%s</span> "
+msgstr ""
+
+#: page-dashboard.php:280
+msgid "You have %s days remaining to view resume details."
+msgstr ""
+
+#: page-dashboard.php:282
+msgid "You have %s day remaining to view resume details."
+msgstr ""
+
+#: page-dashboard.php:308 page-post-a-job.php:519 page-upgrade-account.php:250
+msgid "Add a text widget +"
+msgstr ""
+
+#: page-jobseeker-account.php:23 resumes/front.php:245
+msgid "Profile Settings"
+msgstr ""
+
+#: page-jobseeker-account.php:30
+msgid "PRIVACY"
+msgstr ""
+
+#: page-jobseeker-account.php:32
+msgid "View your Resume"
+msgstr ""
+
+#: page-jobseeker-account.php:52 page-post-a-job.php:209
+#: page-upgrade-account.php:115
+msgid "Retype your password"
+msgstr ""
+
+#: page-jobseeker-account.php:57
+msgid "To save these settings, please enter your current password"
+msgstr ""
+
+#: page-jobseeker-account.php:71
+msgid "Receive email from %s"
+msgstr ""
+
+#: page-jobseeker-account.php:72
+msgid "When you turn this on, employers can email you through the 'Contact' form in your resume."
+msgstr ""
+
+#: page-jobseeker-account.php:75 page-jobseeker-account.php:88
+msgid "ENABLE"
+msgstr ""
+
+#: page-jobseeker-account.php:78 page-jobseeker-account.php:91
+msgid "DISABLE"
+msgstr ""
+
+#: page-jobseeker-account.php:84
+msgid "Confidential Mode"
+msgstr ""
+
+#: page-jobseeker-account.php:85
+msgid "When you turn this on, your profile still appears in the listings but your name, picture, social links, and work experience will be hidden from the employers.<br/> Only companies that receive your application will be able to view your full profile."
+msgstr ""
+
+#: page-jobseeker-account.php:95
+msgid "Privileged Companies"
+msgstr ""
+
+#: page-jobseeker-account.php:96
+msgid "These companies are currently able to view your full profile. You can choose to remove them from the list."
+msgstr ""
+
+#: page-jobseeker-account.php:101
+msgid "<h3>You have not allowed any company to view your profile.</h3>"
+msgstr ""
+
+#: page-jobseeker-account.php:108
+msgid "Remove %s from your accessible list"
+msgstr ""
+
+#: page-jobseeker-account.php:108
+msgid "Remove"
+msgstr ""
+
+#: page-jobseeker-signup.php:24 page-jobseeker-signup.php:257
+msgid "SIGN UP AS A PROFESSIONAL"
+msgstr ""
+
+#: page-jobseeker-signup.php:25
+msgid "Get noticed. Get hired."
+msgstr ""
+
+#: page-jobseeker-signup.php:34 page-jobseeker-signup.php:41
+msgid "Step One"
+msgstr ""
+
+#: page-jobseeker-signup.php:35 page-jobseeker-signup.php:42
+msgid "Create An Account"
+msgstr ""
+
+#: page-jobseeker-signup.php:48
+msgid "Step Two"
+msgstr ""
+
+#: page-jobseeker-signup.php:49
+msgid "Create Your Resume"
+msgstr ""
+
+#: page-jobseeker-signup.php:62
+msgid "Do you want to import data from your LinkedIn account?"
+msgstr ""
+
+#: page-jobseeker-signup.php:65
+msgid "Load them up"
+msgstr ""
+
+#: page-jobseeker-signup.php:72
+msgid "Your Username"
+msgstr ""
+
+#: page-jobseeker-signup.php:79
+msgid "Your Full Name"
+msgstr ""
+
+#: page-jobseeker-signup.php:85
+msgid "Professional Title"
+msgstr ""
+
+#: page-jobseeker-signup.php:87
+msgid "e.g. \"User Interface Designer\""
+msgstr ""
+
+#: page-jobseeker-signup.php:99
+msgid "About You"
+msgstr ""
+
+#: page-jobseeker-signup.php:118
+msgid "Retype Your Password"
+msgstr ""
+
+#: page-jobseeker-signup.php:129 single-resume.php:133
+msgid "Education"
+msgstr ""
+
+#: page-jobseeker-signup.php:140 single-resume.php:170
+msgid "Add another school"
+msgstr ""
+
+#: page-jobseeker-signup.php:145 resumes/resumes.php:215 single-resume.php:187
+msgid "Work Experience"
+msgstr ""
+
+#: page-jobseeker-signup.php:157
+msgid "Add another experience"
+msgstr ""
+
+#: page-jobseeker-signup.php:222 resumes/resumes.php:522 single-resume.php:354
+msgid "Skills"
+msgstr ""
+
+#: page-jobseeker-signup.php:233 single-resume.php:380
+msgid "Type your skills"
+msgstr ""
+
+#: page-jobseeker-signup.php:234 single-resume.php:382
+msgid "Press Enter to keep adding skills"
+msgstr ""
+
+#: page-jobseeker-signup.php:237 single-resume.php:384
+msgid "Add +"
+msgstr ""
+
+#: page-jobseeker-signup.php:251
+msgid "Continue <span>&raquo;</span>"
+msgstr ""
+
+#: page-jobseeker-signup.php:254
+msgid "WE ARE GOING TO THE NEXT STEP ..."
+msgstr ""
+
+#: page-not-permission.php:7
+msgid "You dont have permission to access this page"
+msgstr ""
+
+#: page-not-permission.php:8
+msgid "please login!"
+msgstr ""
+
+#: page-password.php:44
+msgid "Old Password"
+msgstr ""
+
+#: page-password.php:51 page-reset-password.php:55
+msgid "New Password"
+msgstr ""
+
+#: page-password.php:58 page-reset-password.php:61
+msgid "Retype New Password"
+msgstr ""
+
+#: page-post-a-job.php:60
+msgid "Renew this Job"
+msgstr ""
+
+#: page-post-a-job.php:89 page-upgrade-account.php:43
+msgid "Choose the pricing plan that fits your needs"
+msgstr ""
+
+#: page-post-a-job.php:107
+msgid "Each job will be displayed as %s for %d days."
+msgstr ""
+
+#: page-post-a-job.php:108
+msgid "Each job will be displayed as %s for %d day."
+msgstr ""
+
+#: page-post-a-job.php:128
+msgid "You have %d jobs in this plan"
+msgstr ""
+
+#: page-post-a-job.php:129
+msgid "You have %d job in this plan"
+msgstr ""
+
+#: page-post-a-job.php:134
+msgid "This plan includes %s jobs"
+msgstr ""
+
+#: page-post-a-job.php:135
+msgid "This plan includes %s job"
+msgstr ""
+
+#: page-post-a-job.php:162 page-upgrade-account.php:68
+msgid "Login or create an account"
+msgstr ""
+
+#: page-post-a-job.php:166 page-upgrade-account.php:72
+msgid "Register"
+msgstr ""
+
+#: page-post-a-job.php:167 page-upgrade-account.php:73
+msgid "Already have an account?"
+msgstr ""
+
+#: page-post-a-job.php:175 page-upgrade-account.php:81
+msgid "USER NAME"
+msgstr ""
+
+#: page-post-a-job.php:176 page-upgrade-account.php:82
+msgid "Please enter your username"
+msgstr ""
+
+#: page-post-a-job.php:186 page-upgrade-account.php:92
+msgid "EMAIL ADDRESS"
+msgstr ""
+
+#: page-post-a-job.php:187 page-upgrade-account.php:93
+msgid "Please enter your email address"
+msgstr ""
+
+#: page-post-a-job.php:198 page-post-a-job.php:238 page-upgrade-account.php:104
+#: page-upgrade-account.php:144
+msgid "Enter your password"
+msgstr ""
+
+#: page-post-a-job.php:208 page-upgrade-account.php:114
+msgid "RETYPE YOUR PASSWORD"
+msgstr ""
+
+#: page-post-a-job.php:228 page-upgrade-account.php:134
+msgid "USERNAME or EMAIL ADDRESS"
+msgstr ""
+
+#: page-post-a-job.php:229 page-upgrade-account.php:135
+msgid "Please enter your username or email"
+msgstr ""
+
+#: page-post-a-job.php:262
+msgid "Describe your job and your company"
+msgstr ""
+
+#: page-post-a-job.php:270
+msgid "JOB TITLE"
+msgstr ""
+
+#: page-post-a-job.php:271
+msgid "Enter a short title for your job"
+msgstr ""
+
+#: page-post-a-job.php:279
+msgid "JOB DESCRIPTION"
+msgstr ""
+
+#: page-post-a-job.php:280
+msgid "Describe your job in a few paragraphs "
+msgstr ""
+
+#: page-post-a-job.php:292
+msgid "JOB LOCATION"
+msgstr ""
+
+#: page-post-a-job.php:293
+msgid "Enter a city and country or leave it blank"
+msgstr ""
+
+#: page-post-a-job.php:323 single-job.php:244 single-job.php:245
+#: template-apply.php:26 template-apply.php:27
+msgid "HOW TO APPLY"
+msgstr ""
+
+#: page-post-a-job.php:324
+msgid "Select how you would want jobseekers to submit their applications"
+msgstr ""
+
+#: page-post-a-job.php:330
+msgid "Allow job seekers to submit their cover letter and resume directly"
+msgstr ""
+
+#: page-post-a-job.php:339
+msgid "Job seekers must follow the application steps below"
+msgstr ""
+
+#: page-post-a-job.php:351
+msgid "Select the correct type for your job"
+msgstr ""
+
+#: page-post-a-job.php:359
+msgid "JOB CATEGORY"
+msgstr ""
+
+#: page-post-a-job.php:360
+msgid "Select a category for your job"
+msgstr ""
+
+#: page-post-a-job.php:375
+msgid "COMPANY NAME"
+msgstr ""
+
+#: page-post-a-job.php:376
+msgid "Enter your company name"
+msgstr ""
+
+#: page-post-a-job.php:384
+msgid "COMPANY WEBSITE"
+msgstr ""
+
+#: page-post-a-job.php:385
+msgid "Enter your company website"
+msgstr ""
+
+#: page-post-a-job.php:394
+msgid "COMPANY LOGO"
+msgstr ""
+
+#: page-post-a-job.php:395
+msgid "Upload your company logo"
+msgstr ""
+
+#: page-post-a-job.php:413 template-apply.php:154 template-apply.php:219
+msgid "Browse..."
+msgstr ""
+
+#: page-post-a-job.php:433
+msgid "CANCEL"
+msgstr ""
+
+#: page-post-a-job.php:452
+msgid "Send payment and submit your job"
+msgstr ""
+
+#: page-process-payment.php:104
+msgid "<p>Your job has been submitted to our website.</p> %s "
+msgstr ""
+
+#: page-process-payment.php:107 page-process-payment.php:247
+msgid "Success, friend"
+msgstr ""
+
+#: page-process-payment.php:110
+msgid "Your payment has been sent successfully but is currently set as 'pending' by Paypal. <br/>You will be notified when your job is approved."
+msgstr ""
+
+#: page-process-payment.php:113
+msgid "You are now redirected to your job page… "
+msgstr ""
+
+#: page-process-payment.php:114 page-process-payment.php:259
+#: page-process-payment.php:282 page-process-payment.php:302
+msgid "Time left: %s"
+msgstr ""
+
+#: page-process-payment.php:225
+msgid "<p> Your account is now pending for upgrade.</p> %s "
+msgstr ""
+
+#: page-process-payment.php:231 page-process-payment.php:239
+msgid "You are now redirected to the resumes' list … "
+msgstr ""
+
+#: page-process-payment.php:236
+msgid "You are now redirected to recent view resume profile … "
+msgstr ""
+
+#: page-process-payment.php:251
+msgid "Your payment has been sent successfully but is currently set as 'pending' by Paypal. <br/>You will be notified when your account is approved."
+msgstr ""
+
+#: page-process-payment.php:279 page-process-payment.php:299
+msgid "Payment failed, friend!"
+msgstr ""
+
+#: page-process-payment.php:281
+msgid "You are now redirected back to the job posting page…"
+msgstr ""
+
+#: page-process-payment.php:284
+msgid "Post a job"
+msgstr ""
+
+#: page-process-payment.php:301
+msgid "You are now redirected back to the upgrade account page …"
+msgstr ""
+
+#: page-process-payment.php:304
+msgid "Upgrade your account"
+msgstr ""
+
+#: page-profile.php:53
+msgid "Company Email"
+msgstr ""
+
+#: page-profile.php:63
+msgid "Company Logo"
+msgstr ""
+
+#: page-profile.php:69
+msgid "Company Website"
+msgstr ""
+
+#: page-profile.php:76 page-profile.php:96
+msgid "Company Information (%s characters left)"
+msgstr ""
+
+#: page-profile.php:76 page-profile.php:94 page-profile.php:95
+msgid "Company Information (%s character left)"
+msgstr ""
+
+#: page-upgrade-account.php:172
+msgid "Send payment and upgrade your account"
+msgstr ""
+
+#: resumes/admin/options-content.php:12 resumes/admin/options-content.php:38
+#: resumes/init.php:183
+msgid "Double click to edit"
+msgstr ""
+
+#: resumes/admin/options-content.php:13 resumes/admin/options-content.php:39
+#: resumes/admin.php:32 resumes/init.php:184 resumes/init.php:208
+msgid "Oops, empty title! Double click to change"
+msgstr ""
+
+#: resumes/admin/options-content.php:15 resumes/init.php:186
+msgid "e.g. AVAILABLE or CONTRACT TYPE"
+msgstr ""
+
+#: resumes/admin/options-content.php:22
+msgid "Create a list of employment contracts (e.g. Full-time, Freelance) that employers can use to filter resume posts."
+msgstr ""
+
+#: resumes/admin/options-content.php:42 resumes/init.php:210
+msgid "e.g. Fields and industries"
+msgstr ""
+
+#: resumes/admin/options-content.php:46
+msgid "Create a list to categorize resumes the way you want, e.g. Fields and Industries, Expected Positions"
+msgstr ""
+
+#: resumes/admin/options-content.php:65
+msgid "Add another category"
+msgstr ""
+
+#: resumes/admin/options-content.php:73
+msgid "Pending resumes"
+msgstr ""
+
+#: resumes/admin/options-content.php:75
+msgid "Enabling this will make every new resume post pending until you review and approve it manually."
+msgstr ""
+
+#: resumes/admin/options-general.php:2 resumes/init.php:163
+msgid "Turn the feature on"
+msgstr ""
+
+#: resumes/admin/options-general.php:4 resumes/init.php:165
+msgid "You can turn RESUME section off when you don't need it"
+msgstr ""
+
+#: resumes/admin/options-general.php:20
+msgid "Resumes list headline"
+msgstr ""
+
+#: resumes/admin/options-general.php:22
+msgid "Enter your resumes list's headline"
+msgstr ""
+
+#: resumes/admin/options-general.php:32
+msgid "LinkedIn API Key"
+msgstr ""
+
+#: resumes/admin/options-general.php:34
+msgid "Enter your LinkedIn API Key to allow jobseekers to import data from their LinkedIn profile"
+msgstr ""
+
+#: resumes/admin/options-general.php:42
+msgid "Login-to-View Resumes"
+msgstr ""
+
+#: resumes/admin/options-general.php:44
+msgid "Turn on to make resumes viewable to logged in users only"
+msgstr ""
+
+#: resumes/admin/options-mails.php:2
+msgid "Mail template"
+msgstr ""
+
+#: resumes/admin/options-mails.php:9
+msgid "The resume  name"
+msgstr ""
+
+#: resumes/admin/options-mails.php:10
+msgid "Job seeker's name"
+msgstr ""
+
+#: resumes/admin/options-mails.php:11
+msgid "Job seeker's email"
+msgstr ""
+
+#: resumes/admin/options-mails.php:12
+msgid "Admin email"
+msgstr ""
+
+#: resumes/admin/options-mails.php:13
+msgid "Profile link of seeker"
+msgstr ""
+
+#: resumes/admin/options-mails.php:14
+msgid "Resume seeker's decscription"
+msgstr ""
+
+#: resumes/admin/options-mails.php:15
+msgid "Resume seeker's profile address"
+msgstr ""
+
+#: resumes/admin/options-mails.php:16
+msgid "The address of the job that job seeker applied for"
+msgstr ""
+
+#: resumes/admin/options-mails.php:17
+msgid "Your page name"
+msgstr ""
+
+#: resumes/admin/options-mails.php:29
+msgid "Jobseeker registration confirmation"
+msgstr ""
+
+#: resumes/admin/options-mails.php:49
+msgid "Job application confirmation"
+msgstr ""
+
+#: resumes/admin/options-mails.php:77
+msgid "Resume approved"
+msgstr ""
+
+#: resumes/admin/options-mails.php:105
+msgid "Resume rejected"
+msgstr ""
+
+#: resumes/admin/options-mails.php:133
+msgid "Contact jobseeker"
+msgstr ""
+
+#: resumes/admin/options-mails.php:151
+msgid "Sender's name"
+msgstr ""
+
+#: resumes/admin/options-mails.php:152
+msgid "Sender's email"
+msgstr ""
+
+#: resumes/admin/options-payment-plans.php:6
+msgid "Set payment plans your employers can choose from to view resumes."
+msgstr ""
+
+#: resumes/admin/options-payment-plans.php:27 resumes/admin/options.php:185
+#: resumes/admin/options.php:230 resumes/admin/options.php:369
+msgid "%s to view jobseekers' profiles in %s days"
+msgstr ""
+
+#: resumes/admin/options-payment-plans.php:68
+#: resumes/admin/options-payment-plans.php:103
+msgid "Short description about this plan"
+msgstr ""
+
+#: resumes/admin/options-payment.php:3
+msgid "Pay-to-View Resumes"
+msgstr ""
+
+#: resumes/admin/options-payment.php:5
+msgid "Enabling this will require employers to upgrade their account to view the resume detail page."
+msgstr ""
+
+#: resumes/admin/options.php:11
+msgid "Manage all options for resumes"
+msgstr ""
+
+#: resumes/admin/options.php:70
+msgid "Options has been updated successfully!"
+msgstr ""
+
+#: resumes/admin/options.php:85
+msgid "Mail has been updated successfully"
+msgstr ""
+
+#: resumes/admin/options.php:97
+msgid "Mail template can't be found1"
+msgstr ""
+
+#: resumes/admin/options.php:106
+msgid "Mail template can't be found2"
+msgstr ""
+
+#: resumes/admin/options.php:181 resumes/admin/options.php:224
+msgid "Payment price should be number format"
+msgstr ""
+
+#: resumes/admin/options.php:183 resumes/admin/options.php:227
+msgid "Payment duration should be number format"
+msgstr ""
+
+#: resumes/admin/options.php:187 resumes/admin/options.php:232
+msgid "You will be able to view resume details in %s days."
+msgstr ""
+
+#: resumes/admin.php:52
+msgid "Invalid resume package ID!"
+msgstr ""
+
+#: resumes/front.php:38
+msgid "No location specified"
+msgstr ""
+
+#: resumes/front.php:40 single-resume.php:36
+msgid "THIS RESUME IS WAITING FOR APPROVAL TO PUBLISH."
+msgstr ""
+
+#: resumes/front.php:41 single-resume.php:27
+msgid "THIS RESUME IS REJECTED."
+msgstr ""
+
+#: resumes/front.php:42
+msgid "Begining date must after to finish date"
+msgstr ""
+
+#: resumes/front.php:43
+msgid " Please enter your job title."
+msgstr ""
+
+#: resumes/front.php:44
+msgid " Please select start date."
+msgstr ""
+
+#: resumes/front.php:45
+msgid " Please select end date."
+msgstr ""
+
+#: resumes/front.php:46
+msgid " Please enter your school name."
+msgstr ""
+
+#: resumes/front.php:47
+msgid " Please enter your company name."
+msgstr ""
+
+#: resumes/front.php:48
+msgid " You have already added this skill. Please enter another or select from the suggestions."
+msgstr ""
+
+#: resumes/front.php:49
+msgid "You have already selected this category. Please choose another from the list."
+msgstr ""
+
+#: resumes/front.php:79
+msgid "Please enter valid linkedin profile address"
+msgstr ""
+
+#: resumes/front.php:80
+msgid "Please enter valid twitter address"
+msgstr ""
+
+#: resumes/front.php:81
+msgid "Please enter valid facebook address"
+msgstr ""
+
+#: resumes/front.php:82
+msgid "Please enter valid google plus address"
+msgstr ""
+
+#: resumes/front.php:83
+msgid "Please enter valid personal website address"
+msgstr ""
+
+#: resumes/front.php:92 resumes/front.php:93
+msgid "Name is required"
+msgstr ""
+
+#: resumes/front.php:94
+msgid "Message is required"
+msgstr ""
+
+#: resumes/front.php:121
+msgid "Email is invalid"
+msgstr ""
+
+#: resumes/front.php:122
+msgid "Please confirm password"
+msgstr ""
+
+#: resumes/front.php:123
+msgid "Confirmed password doesnot matched"
+msgstr ""
+
+#: resumes/front.php:124
+msgid "Please enter your current password"
+msgstr ""
+
+#: resumes/front.php:156
+msgid "This email already exists! <a href='#'' class='forgot-pass-link'>Forgot password</a>"
+msgstr ""
+
+#: resumes/front.php:158
+msgid "This username has been used!"
+msgstr ""
+
+#: resumes/front.php:228
+msgid "Send a message"
+msgstr ""
+
+#: resumes/front.php:335 resumes/template.php:400
+msgid "Jobseeker profile is not free to view, you should upgrade your account to access resume profile."
+msgstr ""
+
+#: resumes/helper.php:14 resumes/helper.php:48 resumes/resumes.php:136
+#: resumes/resumes.php:153 resumes/resumes.php:185 resumes/resumes.php:200
+#: resumes/resumes.php:244 resumes/resumes.php:261 resumes/resumes.php:294
+#: resumes/resumes.php:309 resumes/resumes.php:359 resumes/resumes.php:374
+#: resumes/resumes.php:406 resumes/resumes.php:421
+msgid "Year"
+msgstr ""
+
+#: resumes/helper.php:28 resumes/resumes.php:129 resumes/resumes.php:146
+#: resumes/resumes.php:179 resumes/resumes.php:194 resumes/resumes.php:237
+#: resumes/resumes.php:254 resumes/resumes.php:288 resumes/resumes.php:303
+#: resumes/resumes.php:353 resumes/resumes.php:368 resumes/resumes.php:400
+#: resumes/resumes.php:415 resumes/template.php:272 resumes/template.php:293
+#: resumes/template.php:338 resumes/template.php:359
+msgid "Month"
+msgstr ""
+
+#: resumes/helper.php:71
+msgid "Select your matches"
+msgstr ""
+
+#: resumes/index.php:22
+msgid "<h6>JOBENGINE RESUME</h6> <p>A strong resume help you stand out from the crowd.<br>Learn how to craft one that makes you look your best.</p>"
+msgstr ""
+
+#: resumes/init.php:190
+msgid "Available (e.g., full-time, part-time, contractual) are used by employer to filter resume posts."
+msgstr ""
+
+#: resumes/init.php:214
+msgid "You can define this list to categorize resumes the way you want, for example: fields and industries, expected positions..."
+msgstr ""
+
+#: resumes/init.php:237
+msgid "Your profile in %s has been approved"
+msgstr ""
+
+#: resumes/init.php:274
+msgid "Your profile in %s has been rejected"
+msgstr ""
+
+#: resumes/init.php:297
+msgid "Welcome to %s "
+msgstr ""
+
+#: resumes/init.php:338 resumes/job_seekers.php:64
+msgid "Missing username"
+msgstr ""
+
+#: resumes/init.php:435
+msgid "<p>Hello [display_name],</p><p>You have successfully registered an account with  [blogname].</p> <p>Here is your account information: <br /> Username: [user_login] <br />Email: [user_email] <br /> </p> <p>Thank you and welcome to [blogname]. </p>"
+msgstr ""
+
+#: resumes/init.php:437
+msgid "<p>Dear [display_name],</p><p>Your job offer for [job_title] posted in [blogname] has a new application.</p><p>Here are the applicants information:<br />Email address: [seeker_mail]<br />Note: [seeker_note]<br /><a href='[profile_link]'>Click here </a>to view the applicant's profile.</p> <p>And here is the link to your job offer: [job_link].</p><p>Sincerely<br />[blogname]</p>"
+msgstr ""
+
+#: resumes/init.php:439
+msgid "<p>Dear [display_name], </p> <p>Your professional profile in [blogname] has been approved and is displayed in our jobseeker section now. You can follow this link: [profile_link] to view your profile or make further changes.</p><p>Sincerely,<br />[blogname]</p>"
+msgstr ""
+
+#: resumes/init.php:441
+msgid "<p>Dear [display_name],</p> <p>Your professional profile in [blogname] has been rejected.<br /> Noted reason: [reason] </p><p>Please contact the administrators via [admin_email] for more information, or go to your profile at [profile_link] to make proper changes and submit it again.</p><p>Sincerely,<br />[blogname]</p>"
+msgstr ""
+
+#: resumes/init.php:443
+msgid "<p>Hi [display_name],</p><p>You have a new message from [contact_name]:</p><p>[contact_msg]</p><p>Sincerely, <br/>[blogname]</p>"
+msgstr ""
+
+#: resumes/job_seekers.php:94
+msgid "Missing User Name"
+msgstr ""
+
+#: resumes/job_seekers.php:106
+msgid "Missing ID"
+msgstr ""
+
+#: resumes/job_seekers.php:214 resumes/resumes.php:837 resumes/resumes.php:935
+#: resumes/resumes.php:937
+msgid "Anonymous"
+msgstr ""
+
+#: resumes/job_seekers.php:436
+msgid "Missing arguments"
+msgstr ""
+
+#: resumes/job_seekers.php:440
+msgid "Can't find receiver"
+msgstr ""
+
+#: resumes/job_seekers.php:474
+msgid "Message from %s"
+msgstr ""
+
+#: resumes/job_seekers.php:481
+msgid "Your message was sent successfully. You will be redirected to the profile page in 3 seconds."
+msgstr ""
+
+#: resumes/job_seekers.php:488
+msgid "Your message can't be sent. You will be redirected to the profile page in 3 seconds."
+msgstr ""
+
+#: resumes/job_seekers.php:526
+msgid "Invalid method!"
+msgstr ""
+
+#: resumes/job_seekers.php:541
+msgid "Current password doesn't correct"
+msgstr ""
+
+#: resumes/job_seekers.php:551
+msgid "Cannot update information"
+msgstr ""
+
+#: resumes/job_seekers.php:556
+msgid "Information has been updated"
+msgstr ""
+
+#: resumes/job_seekers.php:575
+msgid "You don't have permission to read this user info!"
+msgstr ""
+
+#: resumes/job_seekers.php:582
+msgid "User not exist!"
+msgstr ""
+
+#: resumes/job_seekers.php:602
+msgid "Update success!"
+msgstr ""
+
+#: resumes/job_seekers.php:604
+msgid "Update fail!"
+msgstr ""
+
+#: resumes/job_seekers.php:607
+msgid "Permission denied!"
+msgstr ""
+
+#: resumes/job_seekers.php:619
+msgid "Missing jobseeker data"
+msgstr ""
+
+#: resumes/job_seekers.php:649
+msgid "Upload Failed! Maybe your image size is too large!"
+msgstr ""
+
+#: resumes/resumes.php:46
+msgid "Resume Information"
+msgstr ""
+
+#: resumes/resumes.php:109
+msgid "Education background"
+msgstr ""
+
+#: resumes/resumes.php:119 resumes/resumes.php:169 resumes/resumes.php:347
+msgid "School"
+msgstr ""
+
+#: resumes/resumes.php:123 resumes/resumes.php:173 resumes/template.php:173
+#: resumes/template.php:266
+msgid "Degree"
+msgstr ""
+
+#: resumes/resumes.php:127 resumes/resumes.php:177 resumes/resumes.php:235
+#: resumes/resumes.php:286 resumes/resumes.php:351 resumes/resumes.php:398
+msgid "From"
+msgstr ""
+
+#: resumes/resumes.php:144 resumes/resumes.php:192 resumes/resumes.php:252
+#: resumes/resumes.php:301 resumes/resumes.php:366 resumes/resumes.php:413
+msgid "To"
+msgstr ""
+
+#: resumes/resumes.php:163 resumes/resumes.php:209
+msgid "Currently study here"
+msgstr ""
+
+#: resumes/resumes.php:213
+msgid "Add more school"
+msgstr ""
+
+#: resumes/resumes.php:231 resumes/resumes.php:282 resumes/resumes.php:394
+#: resumes/resumes.php:573
+msgid "Category"
+msgstr ""
+
+#: resumes/resumes.php:271 resumes/resumes.php:318
+msgid "Currently work here"
+msgstr ""
+
+#: resumes/resumes.php:322
+msgid "Add more company"
+msgstr ""
+
+#: resumes/resumes.php:325
+msgid "Job seeker"
+msgstr ""
+
+#: resumes/resumes.php:383 resumes/resumes.php:430 resumes/template.php:252
+#: resumes/template.php:384
+msgid "I currently work here"
+msgstr ""
+
+#: resumes/resumes.php:507
+msgctxt "taxonomy general name"
+msgid "Skills"
+msgstr ""
+
+#: resumes/resumes.php:508
+msgctxt "taxonomy singular name"
+msgid "Skill"
+msgstr ""
+
+#: resumes/resumes.php:509
+msgid "Search Skills"
+msgstr ""
+
+#: resumes/resumes.php:510
+msgid "Popular Skills"
+msgstr ""
+
+#: resumes/resumes.php:511
+msgid "All Skills"
+msgstr ""
+
+#: resumes/resumes.php:514
+msgid "Edit Skill"
+msgstr ""
+
+#: resumes/resumes.php:515
+msgid "Update Skill"
+msgstr ""
+
+#: resumes/resumes.php:516
+msgid "Add New Skill"
+msgstr ""
+
+#: resumes/resumes.php:517
+msgid "New Skill Name"
+msgstr ""
+
+#: resumes/resumes.php:518
+msgid "Separate skills with commas"
+msgstr ""
+
+#: resumes/resumes.php:519
+msgid "Add or remove skills"
+msgstr ""
+
+#: resumes/resumes.php:520
+msgid "Choose from the most used skills"
+msgstr ""
+
+#: resumes/resumes.php:521
+msgid "No skills found."
+msgstr ""
+
+#: resumes/resumes.php:535
+msgctxt "taxonomy general name"
+msgid "Available"
+msgstr ""
+
+#: resumes/resumes.php:536
+msgctxt "taxonomy singular name"
+msgid "Available"
+msgstr ""
+
+#: resumes/resumes.php:537
+msgid "Search Available for"
+msgstr ""
+
+#: resumes/resumes.php:538
+msgid "Popular Available for"
+msgstr ""
+
+#: resumes/resumes.php:539
+msgid "All Available for"
+msgstr ""
+
+#: resumes/resumes.php:542
+msgid "Edit Available"
+msgstr ""
+
+#: resumes/resumes.php:543
+msgid "Update Available"
+msgstr ""
+
+#: resumes/resumes.php:544
+msgid "Add New Available"
+msgstr ""
+
+#: resumes/resumes.php:545
+msgid "New Available Name"
+msgstr ""
+
+#: resumes/resumes.php:546
+msgid "Separate \"available for\" with commas"
+msgstr ""
+
+#: resumes/resumes.php:547
+msgid "Add or remove available"
+msgstr ""
+
+#: resumes/resumes.php:548
+msgid "Choose from the most used available"
+msgstr ""
+
+#: resumes/resumes.php:549
+msgid "No available found."
+msgstr ""
+
+#: resumes/resumes.php:550
+msgid "Available For"
+msgstr ""
+
+#: resumes/resumes.php:836
+msgid "Anonymous %s"
+msgstr ""
+
+#: resumes/resumes.php:1056
+msgid "Now"
+msgstr ""
+
+#: resumes/resumes.php:1099
+msgid "%s <span>at</span> %s"
+msgstr ""
+
+#: resumes/resumes.php:1146
+msgid "%s <span> at </span> %s"
+msgstr ""
+
+#: resumes/resumes.php:1227
+msgid "Fetch success"
+msgstr ""
+
+#: resumes/resumes.php:1263
+msgid "Invalid method"
+msgstr ""
+
+#: resumes/resumes.php:1282
+msgid "Hooray! Your resume has been created."
+msgstr ""
+
+#: resumes/resumes.php:1290
+msgid "Unfortunately! Create Resume Fail :'(!"
+msgstr ""
+
+#: resumes/resumes.php:1347
+msgid "Hooray! Get Resume Data Successful! :)"
+msgstr ""
+
+#: resumes/resumes.php:1353
+msgid "Unfortunately! You can not get your Resume details."
+msgstr ""
+
+#: resumes/resumes.php:1365
+msgid "Delete resume successfull!"
+msgstr ""
+
+#: resumes/resumes.php:1370
+msgid "Error! Uncaughtable error when delete resume!"
+msgstr ""
+
+#: resumes/resumes.php:1399
+msgid "The resume is now published active."
+msgstr ""
+
+#: resumes/resumes.php:1406
+msgid "The resume is now rejected."
+msgstr ""
+
+#: resumes/resumes.php:1423
+msgid "Your resume has been updated."
+msgstr ""
+
+#: resumes/resumes.php:1429
+msgid "Unfortunately, resume update failed."
+msgstr ""
+
+#: resumes/resumes.php:1446
+msgid "Can't find jobseeker"
+msgstr ""
+
+#: resumes/resumes.php:1449
+msgid "There is error occurred!"
+msgstr ""
+
+#: resumes/resumes.php:1461
+msgid "It seems you don't have any resume"
+msgstr ""
+
+#: resumes/resumes.php:1491
+msgid "Cannot create application"
+msgstr ""
+
+#: resumes/resumes.php:1658
+msgid " AVAILABLE FOR"
+msgstr ""
+
+#: resumes/resumes.php:1715 resumes/widgets.php:165
+msgid "RESUME CATEGORIES"
+msgstr ""
+
+#: resumes/template.php:84
+msgid "Send a message to this jobseeker"
+msgstr ""
+
+#: resumes/template.php:85
+msgid "Why do you reject this resume?"
+msgstr ""
+
+#: resumes/template.php:170 resumes/template.php:263
+msgid "School name"
+msgstr ""
+
+#: resumes/template.php:205 resumes/template.php:318
+msgid "I currently study here"
+msgstr ""
+
+#: resumes/template.php:209 resumes/template.php:322
+msgid "Remove this school"
+msgstr ""
+
+#: resumes/template.php:220 resumes/template.php:332
+msgid "Position"
+msgstr ""
+
+#: resumes/template.php:256 resumes/template.php:388
+msgid "Remove this position"
+msgstr ""
+
+#: resumes/template.php:290 resumes/template.php:356
+msgid "to"
+msgstr ""
+
+#: resumes/template.php:329
+msgid "Company name"
+msgstr ""
+
+#: resumes/template.php:410
+msgid "You need to have a premium account to view this resume."
+msgstr ""
+
+#: resumes/template.php:413
+msgid "Already have one?"
+msgstr ""
+
+#: resumes/template.php:413
+msgid "Login here!"
+msgstr ""
+
+#: resumes/template.php:414
+msgid "or"
+msgstr ""
+
+#: resumes/template.php:414
+msgid "Create an account now."
+msgstr ""
+
+#: resumes/widgets.php:84
+msgid "AVAILABLE"
+msgstr ""
+
+#: resumes/widgets.php:90 resumes/widgets.php:171
+msgid "Hide empty"
+msgstr ""
+
+#: resumes/widgets.php:110 resumes/widgets.php:279
+msgid "This widget should only be dragged to the resume sidebar to function properly."
+msgstr ""
+
+#: resumes/widgets.php:111
+msgid "JE Resume Categories"
+msgstr ""
+
+#: resumes/widgets.php:175
+msgid "Hide job count"
+msgstr ""
+
+#: resumes/widgets.php:194
+msgid "Drag this widget to any sidebar to display the total count of active resumes."
+msgstr ""
+
+#: resumes/widgets.php:227
+msgid "Available resumes"
+msgstr ""
+
+#: resumes/widgets.php:294
+msgid "What"
+msgstr ""
+
+#: resumes/widgets.php:296
+msgid "Job title or Skills"
+msgstr ""
+
+#: resumes/widgets.php:301
+msgid "Where"
+msgstr ""
+
+#: resumes/widgets.php:353
+msgid "Resume Sidebar"
+msgstr ""
+
+#: resumes/widgets.php:355
+msgid "Drop widgets here to position them in the Resume list page"
+msgstr ""
+
+#: sidebar.php:10
+msgid "JOB STATUS"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Rejected Jobs"
+msgstr ""
+
+#: sidebar.php:19
+msgid "Archived Jobs"
+msgstr ""
+
+#: sidebar.php:29
+msgid "This sidebar is not active. Please go to the Widgets setting and add the widget to your sidebar."
+msgstr ""
+
+#: single-job.php:38
+msgid "NOT READY"
+msgstr ""
+
+#: single-job.php:47
+msgid "THIS JOB IS %s."
+msgstr ""
+
+#: single-job.php:65 single-resume.php:52
+msgid "APPROVE"
+msgstr ""
+
+#: single-job.php:68 single-resume.php:56
+msgid "REJECT"
+msgstr ""
+
+#: single-job.php:82
+msgid "1 view"
+msgstr ""
+
+#: single-job.php:119
+msgid "View posted jobs in %s "
+msgstr ""
+
+#: single-job.php:238 template-apply.php:21
+msgid "Apply for this job"
+msgstr ""
+
+#: single-job.php:239 template-apply.php:22 template-apply.php:107
+#: template-apply.php:172 template-apply.php:237
+msgid "APPLY FOR THIS JOB"
+msgstr ""
+
+#: single-job.php:250 template-apply.php:255
+msgid "HOW TO APPLY FOR THIS JOB"
+msgstr ""
+
+#: single-resume.php:30
+msgid "PUBLISH AGAIN!"
+msgstr ""
+
+#: single-resume.php:97
+msgid "About me"
+msgstr ""
+
+#: single-resume.php:105 single-resume.php:158 single-resume.php:209
+#: single-resume.php:253 single-resume.php:312 single-resume.php:368
+msgid "Oops! You're missing something here..."
+msgstr ""
+
+#: single-resume.php:117 single-resume.php:171 single-resume.php:218
+#: single-resume.php:273 single-resume.php:340 single-resume.php:390
+#: single-resume.php:462 single-resume.php:532
+msgid "SAVE"
+msgstr ""
+
+#: single-resume.php:217
+msgid "Add another company"
+msgstr ""
+
+#: single-resume.php:402
+msgid "Go to profile settings"
+msgstr ""
+
+#: single-resume.php:403
+msgid "Profile settings"
+msgstr ""
+
+#: single-resume.php:414
+msgid "Change Avatar"
+msgstr ""
+
+#: single-resume.php:428
+msgid "No title"
+msgstr ""
+
+#: single-resume.php:431
+msgid "No Location"
+msgstr ""
+
+#: single-resume.php:443 template-apply.php:129 template-apply.php:194
+msgid "Full name"
+msgstr ""
+
+#: single-resume.php:449
+msgid "Profession title"
+msgstr ""
+
+#: single-resume.php:512
+msgid "Edit URLs"
+msgstr ""
+
+#: single-resume.php:591
+msgid "Send Message"
+msgstr ""
+
+#: template-apply.php:14
+msgid "Don't have time now?"
+msgstr ""
+
+#: template-apply.php:16
+msgid "Get a reminder in your inbox"
+msgstr ""
+
+#: template-apply.php:48
+msgid "Use your professional profile to apply"
+msgstr ""
+
+#: template-apply.php:76
+msgid "Not having an account? "
+msgstr ""
+
+#: template-apply.php:76
+msgid "Register here!"
+msgstr ""
+
+#: template-apply.php:87
+msgid "Logged in as <span>%s</span>."
+msgstr ""
+
+#: template-apply.php:88
+msgid "Log out?"
+msgstr ""
+
+#: template-apply.php:93 template-apply.php:163 template-apply.php:228
+#: template-apply.php:274
+msgid "Notes"
+msgstr ""
+
+#: template-apply.php:124
+msgid "Or send your application quickly without registration"
+msgstr ""
+
+#: template-apply.php:148 template-apply.php:213
+msgid "Attachments"
+msgstr ""
+
+#: template-apply.php:283
+msgid "Submit"
+msgstr ""
+
+#: template-job.php:34
+msgid "View more details of %s"
+msgstr ""
+
+#: template-job.php:59
+msgid "Make this job featured"
+msgstr ""
+
+#: template-job.php:62
+msgid "Unset featured status"
+msgstr ""
