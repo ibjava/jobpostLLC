@@ -153,8 +153,8 @@ jQuery(document).ready(function(){
 							if( $user_role == 'company' || !is_user_logged_in() || current_user_can('manage_options') ) {
 							 ?>
 							<div class="post-job">
-								<a href="<?php echo et_get_page_link('post-a-job')?>" class="bg-btn-action btn-header border-radius" title="<?php _e('Post a Job', ET_DOMAIN)?>">
-									<?php _e('POST A JOB', ET_DOMAIN );?><span class="icon f-right" data-icon="W"></span>
+								<a href="<?php echo et_get_page_link('post-a-job')?>" class="bg-btn-action btn-header border-radius" title="<?php _e('Post a Job (Free)', ET_DOMAIN)?>">
+									<?php _e('POST A JOB (FREE)', ET_DOMAIN );?><span class="icon f-right" data-icon="W"></span>
 								</a>
 							
 							</div>

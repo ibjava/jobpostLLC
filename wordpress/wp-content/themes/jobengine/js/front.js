@@ -488,8 +488,10 @@ JobEngine.Views.JobListItemView = Backbone.View.extend({
 			link	= "<a data='" + author_data['id'] + "' href='" + author_data['post_url'] + "' " +
 				"id='job_author_name' class='thumb' title='" + author_data['display_name'] + "'>";
 
-		$target.html(link + "<img src='" + thumb + "' alt='" + author_data['display_name'] + "'/></a>");
-		$companyname.html(link + author_data['display_name'] + '</a>');
+		//$target.html(link + "<img src='" + thumb + "' alt='" + author_data['display_name'] + "'/></a>");
+		$companyname.html(link + author_data['display_name'] + '</a>');//style="margin-left:0px;" 
+		this.$('.content').css({"margin-left": "0px"}); 
+
 	},
 
 	// event handler: toggle the feature button

@@ -281,14 +281,7 @@ function et_template_frontend_job(){
 			'free' 		=> __('FREE', ET_DOMAIN)
 			);
 	$template = <<<TEMPLATE
-	<div class='thumb'>
-		<% if ( _.isObject(author_data['user_logo']) && ('small_thumb' in author_data['user_logo'] || 'thumbnail' in author_data['user_logo'] ) ) { %>
-			<a data='<%= author_id %>' href='<%= author_data['post_url'] %>'
-				id='job_author_name' class='thumb' title='{$strings['view_by']} <%= author_data['display_name'] %>'>
-				<img src='<%= ('small_thumb' in author_data['user_logo'] ) ? author_data['user_logo']['small_thumb'][0] : author_data['user_logo']['thumbnail'][0] %>' />
-			</a>
-		<% } %>
-	</div>
+	
 	<div class='content'>
 		<a class='title-link title' href='<%= permalink %>'><%= title %></a>
 		
