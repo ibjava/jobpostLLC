@@ -1,0 +1,356 @@
+body,
+.wrapper {
+  background-color: #FFFCFD;
+  background-image: url(http://www.ibjava.com/wp-content/themes/jobengine/img/pattern3.png);
+  background-repeat: repeat;
+}
+footer,
+.bg-footer {
+  background: #260919;
+  background: -moz-linear-gradient(top,#1a0611 0%,#260919 15%,#260919 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#1a0611),color-stop(15%,#260919),color-stop(100%,#260919));
+  background: -webkit-linear-gradient(top,#1a0611 0%,#260919 15%,#260919 100%);
+  background: -o-linear-gradient(top,#1a0611 0%,#260919 15%,#260919 100%);
+  background: -ms-linear-gradient(top,#1a0611 0%,#260919 15%,#260919 100%);
+  background: linear-gradient(top,#1a0611 0%,#260919 15%,#260919 100%);
+  color: #eeeeee;
+}
+footer .copyright {
+  color: hardlight(#260919,#ffffff);
+}
+footer .menu-bottom a {
+  color: #eeeeee;
+}
+.header-second,
+.header-filter {
+  border-color: #ffc9db;
+  background-color: #ffe3ec;
+}
+.main-title,
+.widget-title,
+.account-title,
+.form-account .line-hr {
+  border-bottom: 1px solid #ffc9db;
+}
+.companies-statis div.first {
+  border-bottom: 1px solid #ffc9db;
+}
+.entry-blog .comments #respond h3.reply-title,
+.entry-blog .comments .comment-list li {
+  border-bottom: 1px solid #ffe3ec;
+}
+.entry-blog h3.title {
+  border-bottom: 1px solid #ffe3ec;
+  border-top: 1px solid #ffe3ec;
+}
+.heading-info .heading-map {
+  border: 1px solid #ffc9db;
+}
+.heading-info .sharing ul li,
+.heading-info .sharing ul li:first-child {
+  border-color: #ffdde9;
+}
+.btn-background {
+  background: #fff2f6;
+  background: -moz-linear-gradient(top,#fffcfd 0%,#fff7fa 10%,#ffedf3 88%,#ffd3e2 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#fffcfd),color-stop(10%,#fff7fa),color-stop(88%,#ffedf3),color-stop(100%,#ffd3e2));
+  background: -webkit-linear-gradient(top,#fffcfd 0%,#fff7fa 10%,#ffedf3 88%,#ffd3e2 100%);
+  background: -o-linear-gradient(top,#fffcfd 0%,#fff7fa 10%,#ffedf3 88%,#ffd3e2 100%);
+  background: -ms-linear-gradient(top,#fffcfd 0%,#fff7fa 10%,#ffedf3 88%,#ffd3e2 100%);
+  background: linear-gradient(top,#fffcfd 0%,#fff7fa 10%,#ffedf3 88%,#ffd3e2 100%);
+  border: 1px solid #ffbfd4;
+  color: #fc0054;
+}
+.btn-background:hover {
+  background: #ffe3ec;
+  background: -moz-linear-gradient(top,#fff7fa 0%,#fff2f6 10%,#ffe3ec 88%,#ffc9db 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#fff7fa),color-stop(10%,#fff7fa),color-stop(88%,#ffedf3),color-stop(100%,#ffc9db));
+  background: -webkit-linear-gradient(top,#fff7fa 0%,#fff2f6 10%,#ffe3ec 88%,#ffc9db 100%);
+  background: -o-linear-gradient(top,#fff7fa 0%,#fff2f6 10%,#ffe3ec 88%,#ffc9db 100%);
+  background: -ms-linear-gradient(top,#fff7fa 0%,#fff2f6 10%,#ffe3ec 88%,#ffc9db 100%);
+  background: linear-gradient(top,#fff7fa 0%,#fff2f6 10%,#ffe3ec 88%,#ffc9db 100%);
+}
+.btn-background:active {
+  background: #ffc9db;
+  background: -moz-linear-gradient(top,#ffc9db 0%,#ffedf3 12%,#fff7fa 90%,#fffcfd 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#ffc9db),color-stop(12%,#ffedf3),color-stop(90%,#fff7fa),color-stop(100%,#fffcfd));
+  background: -webkit-linear-gradient(top,#ffc9db 0%,#ffedf3 12%,#fff7fa 90%,#fffcfd 100%);
+  background: -o-linear-gradient(top,#ffc9db 0%,#ffedf3 12%,#fff7fa 90%,#fffcfd 100%);
+  background: -ms-linear-gradient(top,#ffc9db 0%,#ffedf3 12%,#fff7fa 90%,#fffcfd 100%);
+  background: linear-gradient(top,#ffc9db 0%,#ffedf3 12%,#fff7fa 90%,#fffcfd 100%);
+}
+.widget_search input#s,
+.input-search-box {
+  background: #FFFCFD;
+  box-shadow: inset 0 1px 2px #ffb0ca;
+  -moz-box-shadow: inset 0 1px 2px #ffb0ca;
+  -webkit-box-shadow: inset 0 1px 2px #ffb0ca;
+  border-color: #ff96b9;
+  border-width: 1px;
+  border-style: solid;
+}
+.heading {
+  border-color: #ffc9db;
+}
+.jse-signup-profile .module .title .btn-edit a,
+.jse-profile .setting-profile,
+.jse-profile .toggle-edit {
+  color: #ff6397 !important;
+}
+.jse-signup-profile .module .title {
+  border-color: #ffd3e2 !important;
+}
+.jse-signup-profile .module .edu-module .item .line {
+  border-color: #ffbfd4 !important;
+}
+.jse-signup-profile .module .edu-module .item .dot {
+  background-color: #ffbfd4 !important;
+}
+.edu-form {
+  border-color: #ffe3ec !important;
+}
+.jse-signup-profile .module .edu-module .item .content {
+  color: #ffbfd4 !important;
+}
+.heading-info,
+.bg-job-frame,
+.bg-grey-widget {
+  background-color: #fff2f6;
+  box-shadow: inset 0 1px 6px -2px #ffb0ca;
+}
+.jse-signup-profile .module.editing,
+.authorized .jse-signup-profile .module-edit:hover {
+  background-color: #fff7fa !important;
+}
+.jquery-sort-column > ul > li .title,
+ul.list-company > li .title {
+  border-bottom: 1px solid #ffc9db;
+}
+.heading-info,
+ul.list-company ul li,
+.jquery-sort-column > ul ul li,
+.main-column .list-jobs li,
+.entry-blog > li,
+.job-account-list li {
+  border-bottom: 1px solid #ffe3ec;
+}
+.job-account-list li .control {
+  border-left: 1px solid #ffe3ec;
+}
+.widget-area .company-profile .info,
+.entry-blog .comments li .thumb,
+.entry-blog .comments li .children li {
+  border-top: 1px solid #ffd8e5;
+}
+.widget ul li a {
+  border-bottom: 1px solid #ffe3ec !important;
+}
+.bg-main-header {
+  background: #2c0d1e;
+  background: -moz-linear-gradient(top,#43152f 0%,#2c0d1e 90%,#240b19 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#43152f),color-stop(90%,#2c0d1e),color-stop(100%,#240b19));
+  background: -webkit-linear-gradient(top,#43152f 0%,#2c0d1e 90%,#240b19 100%);
+  background: -o-linear-gradient(top,#43152f 0%,#2c0d1e 90%,#240b19 100%);
+  background: -ms-linear-gradient(top,#43152f 0%,#2c0d1e 90%,#240b19 100%);
+  background: linear-gradient(top,#43152f 0%,#2c0d1e 90%,#240b19 100%);
+}
+.category .menu-header-top li > a,
+.bg-btn-header {
+  background: #4b1734;
+  background: -moz-linear-gradient(top,#571b3c 0%,#4b1734 85%,#381127 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#571b3c),color-stop(85%,#4b1734),color-stop(100%,#381127));
+  background: -webkit-linear-gradient(top,#571b3c 0%,#4b1734 85%,#381127 100%);
+  background: -o-linear-gradient(top,#571b3c 0%,#4b1734 85%,#381127 100%);
+  background: -ms-linear-gradient(top,#571b3c 0%,#4b1734 85%,#381127 100%);
+  background: linear-gradient(top,#571b3c 0%,#4b1734 85%,#381127 100%);
+  box-shadow: 0 1px 2px #1c0914;
+  -moz-box-shadow: 0 1px 2px #1c0914;
+  -webkit-box-shadow: 0 1px 2px #1c0914;
+}
+.current-menu-item .bg-btn-header,
+.category .menu-header-top .current-menu-item a,
+.account .menu-header-top .selected a,
+.bg-btn-header:active {
+  background: #000000 !important;
+  background: -moz-linear-gradient(top,#1c0914 0%,#000000 100%) !important;
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#1c0914),color-stop(100%,#000000)) !important;
+  background: -webkit-linear-gradient(top,#1c0914 0%,#000000 100%) !important;
+  background: -o-linear-gradient(top,#1c0914 0%,#000000 100%) !important;
+  background: -ms-linear-gradient(top,#1c0914 0%,#000000 100%) !important;
+  background: linear-gradient(top,#1c0914 0%,#000000 100%) !important;
+  box-shadow: inset 0 2px 3px #000000;
+  -moz-box-shadow: inset 0 2px 3px #000000;
+  -webkit-box-shadow: inset 0 2px 3px #000000;
+}
+.header-technical .ver-line {
+  background-color: #200a16;
+}
+.main-header .slogan {
+  color: #eeeeee;
+  text-shadow: 1px 0 0 #000000;
+}
+body,
+.tinymce-style {
+  color: #555555;
+}
+.breadcrumb a,
+.breadcrumb span {
+  color: #555555;
+}
+.tinymce-style h1,
+.tinymce-style h2,
+.tinymce-style h3,
+.tinymce-style h4,
+.tinymce-style h5,
+.tinymce-style h6,
+.job-detail .description h6 {
+  color: #484848;
+}
+.heading-info .info .name,
+.widget .widget-title,
+.heading h1.title {
+  color: #3c3c3c;
+}
+.widget ul.category-lists li a,
+.tinymce-style .description {
+  color: #555555;
+}
+.widget-select ul li a.active,
+.widget-select ul li a:hover {
+  border-color: #555555;
+}
+.heading-info .viewcount,
+.heading-info .date,
+.heading-info .date:before,
+.widget ul.category-lists li a span {
+  color: #959595;
+}
+.heading-info .job-location:before,
+.heading-info .job-location,
+.main-column .list-jobs li .desc > div,
+.main-column .list-jobs li .desc > div a {
+  color: #7b7b7b;
+}
+.list-alphabet li a {
+  color: #888888;
+}
+.jobseeker .account-title a {
+  color: #888888;
+}
+.jobseeker .account-title .menu a {
+  color: #555555;
+}
+.entry-blog #respond input[type="submit"],
+.bg-btn-action {
+  background: #bf7a0c;
+  background: -moz-linear-gradient(top,#db8d0d 0%,#bf7a0c 90%,#b5740b 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#db8d0d),color-stop(90%,#bf7a0c),color-stop(100%,#b5740b));
+  background: -webkit-linear-gradient(top,#db8d0d 0%,#bf7a0c 90%,#b5740b 100%);
+  background: -o-linear-gradient(top,#db8d0d 0%,#bf7a0c 90%,#b5740b 100%);
+  background: -ms-linear-gradient(top,#db8d0d 0%,#bf7a0c 90%,#b5740b 100%);
+  background: linear-gradient(top,#db8d0d 0%,#bf7a0c 90%,#b5740b 100%);
+  font-family: "Quicksand";
+  color: #eeeeee !important;
+}
+.entry-blog #respond input[type="submit"]:hover,
+.bg-btn-action:hover {
+  background: #cd830c;
+  background: -moz-linear-gradient(top,#e5930e 0%,#cd830c 90%,#b5740b 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#e5930e),color-stop(90%,#cd830c),color-stop(100%,#b5740b));
+  background: -webkit-linear-gradient(top,#e5930e 0%,#bf7a0c 90%,#b5740b 100%);
+  background: -o-linear-gradient(top,#e5930e 0%,#cd830c 90%,#b5740b 100%);
+  background: -ms-linear-gradient(top,#e5930e 0%,#cd830c 90%,#b5740b 100%);
+  background: linear-gradient(top,#e5930e 0%,#cd830c 90%,#b5740b 100%);
+}
+.entry-blog #respond input[type="submit"]:active,
+.bg-btn-action:active {
+  background: #b5740b;
+  background: -moz-linear-gradient(top,#b5740b 0%,#bf7a0c 10%,#db8d0d 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#b5740b),color-stop(10%,#bf7a0c),color-stop(100%,#db8d0d));
+  background: -webkit-linear-gradient(top,#b5740b 0%,#bf7a0c 10%,#db8d0d 100%);
+  background: -o-linear-gradient(top,#b5740b 0%,#bf7a0c 10%,#db8d0d 100%);
+  background: -ms-linear-gradient(top,#b5740b 0%,#bf7a0c 10%,#db8d0d 100%);
+  background: linear-gradient(top,#b5740b 0%,#bf7a0c 10%,#db8d0d 100%);
+}
+.bg-btn-action span {
+  color: #eee;
+}
+.widget_calendar table td#today,
+.widget_calendar table td a,
+.entry-blog .content .footer a,
+.entry-blog .content .header a.comment,
+.heading .technical a {
+  color: #B5740B;
+}
+.color-action {
+  color: #B5740B;
+}
+.main-column a,
+.main-column a:visited,
+.widget a,
+.widget a:visited {
+  color: #B5740B;
+}
+.list-alphabet li.active a {
+  color: #B5740B;
+}
+.modal-job .footer .forgot-pass-link {
+  color: #B5740B;
+}
+.bg-btn-hyperlink {
+  background: #bf7a0c;
+  background: -moz-linear-gradient(top,#db8d0d 0%,#bf7a0c 90%,#b5740b 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#db8d0d),color-stop(90%,#bf7a0c),color-stop(100%,#b5740b));
+  background: -webkit-linear-gradient(top,#db8d0d 0%,#bf7a0c 90%,#b5740b 100%);
+  background: -o-linear-gradient(top,#db8d0d 0%,#bf7a0c 90%,#b5740b 100%);
+  background: -ms-linear-gradient(top,#db8d0d 0%,#bf7a0c 90%,#b5740b 100%);
+  background: linear-gradient(top,#db8d0d 0%,#bf7a0c 90%,#b5740b 100%);
+}
+.post-a-job .step ul li.selected {
+  background: #f8d294;
+}
+.selected .btn-select button {
+  background: #f19f1b;
+  color: #B5740B;
+  box-shadow: none;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+}
+::-moz-selection {
+  background: #e5930e;
+  color: #f8d294;
+  text-shadow: none;
+}
+::selection {
+  background: #e5930e;
+  color: #f8d294;
+  text-shadow: none;
+}
+.heading h1.title {
+  font-size: 22px;
+  font-family: Helvetica, san-serif;
+}
+.tinymce-style h1,
+.tinymce-style h2,
+.tinymce-style h3,
+.tinymce-style h4,
+.tinymce-style h5,
+.tinymce-style h6,
+.job-detail .description h6,
+.main-title,
+.widget .widget-title,
+.headline {
+  font-family: Helvetica, san-serif;
+  margin: 0 0 10px 0;
+}
+.modal-job .title-white h5 {
+  font-family: Helvetica, san-serif;
+}
+body,
+.tinymce-style {
+  font-family: Helvetica, san-serif;
+  font-size: 12px;
+}
+a {
+  color: #B5740B;
+}
